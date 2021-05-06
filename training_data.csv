@@ -1,0 +1,981 @@
+Accessability"As an OlderPerson, I want to use ALFRED to help me navigate despite my mild cognitive impairments.
+accessability"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual troubles.
+accessability"As an OlderPerson, I want to use ALFRED as much as possible with speech interaction.
+accessability"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual or hearing troubles.
+accessability"As an OlderPerson, I want to be able to zoom into visual content.
+accessability"As an OlderPerson, I want to receive information from ALFRED by speech technology.
+accessability"As an OlderPerson, I want to use only well-visible buttons.
+accessability"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have hearing trouble.
+accessability"As an OlderPerson, I want to have an ALFRED device that repeats the last phrase.
+accessability"As a developer, I want to have written a site which is compliant with XHTML and CSS standards, so that as many people as possible can access the site and view it as intended.
+Accessibility" Learnability,As a site visitor, I want to be able to get back to the home page quickly and easily, so that I don't get lost navigating.
+Efficiency"As a Data Publishing User, I want to have a functioning Python Client, So that I can add data to the datastore in bulk from the command line or my own programs.
+efficiency"As a team member, I want to have recruiting-email templates ready to go, so that I can start recruiting interviewees ASAP!.
+Efficiency"As a user, I want to specify schema as a JSON string.
+efficiency"As an NSF member of the team, I want to have a place where I can access all the related reports and documentation, so that I can refer to it easily now and in the future.
+efficiency"As a collection curator I want to change permissions on one or more items simultaneously.
+Efficiency"As a site visitor, I want to click the link from the article teaser to take me directly to the body of the article. not to another teaser setup, so that I can easily finish the article.
+efficiency"As a collection curator, I want to create groups of users to manage permissions in the repository in an easy way.
+efficiency"As a moderator, I want to import stories from a spreadsheet, so that I don't have to copy and paste each individual story.
+Efficiency"As a Researcher, I want to get a Data Package into Excel in seconds, so that I can start using the data for doing analysis and visualizations.
+efficiency"As a batch submitter, I want to provide my data and metadata in a simple, documented format to the repository staff for ingest.
+Efficiency"As a developer, I want to have the ALFRED API to reduce the work to achieve my goals.
+Efficiency"As a user, I want to attach multiple files at once to a log book page.
+efficiency"As a faculty member, I want to add a date delimiter to a search string, so that I can limit a search to return only results from before, after, or between a given date or dates.
+Efficiency"As an admin, I want to handle all users' activities, so that I can manage more efficiently.
+efficiency"As a dataset developer, I want to implement custom administrative operations such as compaction or rebalance that are no common to all dataset types.
+Efficiency"As a user, I want to navigate forwards and backwards between log books and log book pages without having to use my browser's back button.
+Efficiency"As a site visitor, I want to have an advanced search option that lets me fill in a form of search criteria, so that I can quickly find what I am looking for.
+Efficiency"As a Data Publishing User, I want to be able to import data in Excel, So that I do not have to convert data formats in order to use the data packager.
+Efficiency"As a Broker user, I want  to help create content mockups, so that I can submit my data efficiently.
+efficiency"As an OlderPerson, I want to activate the vocal interaction mode of ALFRED by pushing a specific button.
+efficiency"As a camp administrator, I want to be quickly log attendance everyday, so that I can track which kids are coming in.
+efficiency"As an owner, I want to view all the people in my organization and what roles they have, so that that I can change these if I want.
+efficiency"As a moderator, I want to have the estimate field filled in automatically if all estimators show the same card, so that I can accept it more quickly.
+Efficiency"As a site member, I want to subscribe to an RSS feed of jobs available, so that I can read them without visiting the site.
+Efficiency"As an API User, I want to be able to use data to get results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+Efficiency"As a release engineer, I want to configure nightly builds that automatically perform a Neurohub installation on a virgin operating system, execute tests and report back results, without requiring any manual input/interaction.
+Efficiency"As a Researcher, I want to get a Data Package into SPSS in seconds, so that I can start using the data for doing analysis and visualizations.
+Efficiency"As a Developer, I want to get a Data Package into Julia in seconds, so that I can start using the data in doing analysis and visualizations.
+efficiency"As a Consumer, I want to download the data package in one file, so that that I don't have to download descriptor and each resource by hand.
+efficiency"As a dataset developer, I want to have the option of implementing a migration procedure that can be run after an upgrade of a dataset instance to a new version of it type.
+Efficiency"As a user, I want to filter the files I get from search results based on their  type.
+Efficiency"As a Broker user, I want the D1 file generation to be synced with the FPDS data load, so that I don't have to regenerate a file if no data has been updated.
+efficiency"As a moderator, I want to copy/paste stories from a spreadsheet, so that I can get started more quickly.
+Efficiency"As a site visitor, I want to subscribe to an RSS feed of articles, so that I can read them without visiting the site.
+Efficiency"As a Data Publishing User, I want to be able to import data in JSON, So that I do not have to convert data formats in order to use the data packager.
+Efficiency"As a Developer, I want to get a Data Package into Clojure in seconds, so that I can start using the data in doing analysis and visualizations.
+Efficiency"As a Developer, I want to get a Data Package into C++ in seconds, so that I can start using the data in doing analysis and visualizations.
+efficiency"As a camp administrator, I want to be able to see only events for a specific group/groups on the event calendar, so that I can easily read the data on the calendar without too much clutter.
+Efficiency"As an OlderPerson, I want to just press one button to call my caregiver.
+Efficiency"As a Data Publishing User, I want to be able to import data from Fiscal Data Package descriptor file, So that I do not have to convert data formats in order to use the data packager.
+Efficiency"As a user, I want to have the ability to move multiple files around and rearrange them using the Neurohub file browser while processing data.
+Efficiency"As a researcher,  I want to have the ability to bulk upload directories and files with minimal effort.
+Efficiency"As a researcher, I want to have the details of the workflow plan as well as the execution history and results recorded in Neurohub while executing a workflow
+Efficiency"As a user, I want to specify schema as a SQL schema string.
+Efficiency"As a site visitor, I want to do a full-text search of the FAQs, so that I can find an answer quickly.
+efficiency"As a faculty member, I want to go to my repository dashboard to manage members of my classes, grant submit permissions by pasting in a list of NetIDs, see confirmation that DDR recognizes the NetIDs, ability to manually remove permissions, ability to set begin and end dates for a submission window, and a have a status screen to clearly illustrate who has and hasn't submitted.
+Efficiency"As a user, I want to download multiple files from the search results in one go.
+efficiency"As a camp administrator, I want to be able to make nametags faster, so that I don't have to spend two hours making 200+ nametags
+efficiency"As a Consumer, I want to download a DataPackage's data one coherent SQLite database, so that that I can get it easily in one form.
+Efficiency"As a Researcher, I want to get a Data Package into STATA in seconds, so that I can start using the data for doing analysis and visualizations.
+Efficiency"As a Data Publishing User, I want to be able to import data from a Google Spreadsheet, So that I do not have to convert data formats in order to use the data packager.
+Efficiency"As an API User, I want to be able to use metadata to get results from multiple datasets, So that I can build user experiences based on more than one dataset more easily.
+Efficiency"As a Researcher, I want a tool that can generate basic statistics about a dataset, so that I can get a quick preview of the data.
+Efficiency"As a Publisher, I want to store my data quickly and easily online.
+efficiency"As an Admin, I want to see key metrics about usage such as users, API usage, downloads, so that that I know how things are going.
+Efficiency"As a user, I want to search specifically for files rather than log book pages.
+efficiency"As a moderator, I want to see all items we try to estimate this session, so that I can answer questions about the current story such as does this include ___.
+Efficiency"As a user, I want to be able to select different types of recyclable waste, so I have and get a list of facilities that accept each type and their opening hours, so that I can find an optimal route and schedule.
+Efficiency"As a user, I want to have the option to tell Neurohub to push posted content to my Twitter feed at the same time.
+efficiency"As a camp administrator, I want to be able to notify parents all at once, so that they can be notified of any upcoming events.
+efficiency"As a camp administrator, I want to be able to automatically create nametags for campers, so that I can lower the amount of work I need to do.
+Efficiency"As a DeveloperWrangler, I want to use a command line tool that allows met to validate data, so that I can feel trust in the validity and usefulness of the data quickly and in the context of my command line workflow.
+Efficiency"As a researcher, I want to have the ability to select a partially pre-populated template that already contains commonly entered meta data while adding new data to the system, so that I do not waste time repeatedly inserting the same meta data over and over again for each individual file or log book entry.
+efficiency"As a team member, I want to have a platform that allows me to rapidly prototype HTML ideas.
+Efficiency"As a Developer , I want to be able to log better, so that I can troubleshoot issues with particular submissions and functions.
+Efficiency"As a DeveloperDataWrangler, I want to store my Data Package in GitHub and have it automatically stored into CKAN, so that I get a data API and my dataset is listed in a relevant catalog.
+efficiency"As a DigitalRecords Archivist, I want to view and download summary embargo metadata for all ETDs in the repository.
+efficiency"As a DigitalRecords Archivist, I want to have the batch ingest tool to recognize and set embargoes, permissions for embargoed items should be allow everyone to view metadata, and collection curator and repository administrators to download the files.
+Efficiency"As an OlderPerson, I want to see my vital parameters myself on the phone.
+efficiency"As a Consumer, I want to search among all data packages owned by a publisher, so that that I can easily find one data package amongst all the data packages by this publisher.
+Efficiency"As a site visitor, I want to subscribe to an RSS feed of upcoming courses and events, so that I am up to day without having to visit the site.
+Efficiency"As a Researcher, I want to get a Data Package into R in seconds, so that I can start using the data for doing analysis and visualizations.
+Efficiency" Learnability,As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis.
+Efficiency" Satisfaction,As a user, I want to have a spreadsheet hosted within the Neurohub Web page, so that I can edit and calculate costs collaboratively with others while working on the proposal.
+Error"As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the service.
+Error"As an app developer, I want to ensure that application creation fails if any of its datasets cannot be created.
+Error"As an admin, I want to view user error logs, so that I can fix or review any issues that are being faced by users of the system.
+Error"As an app developer, I want to ensure that application redeployment fails if any of its datasets cannot be reconfigured.
+Error"As a Publisher, I want to be warned that a tag exists when I try to overwrite it, so that that I don't accidentally overwrite stable tagged data which is relied on by consumers.
+Error"As a user, I want to ensure that if reconfiguration of a dataset fails then no changes have taken effect, so that all steps required to reconfigure a dataset must be done as a single atomic action.
+Error"As an app developer, I want to ensure that when I deploy a new version of an app that includes a different version of a dataset type deployed by another app and this app shares a dataset instance of this type with the other app the deployment will fail with a version conflict error.
+Error"As a Publisher, I want to publish a data package where its resource data is stored on my servers but the registry caches a copy of that data, so that that if my data is lost or gets broken I still have a copy people can use.
+Error"As a user, I want to ensure that dataset creation fails if the dataset cannot be enabled for explore.
+Error"As a Broker user, I want to Upload and Validate the error message to have accurate text.
+Error"As a Consumer, I want to be able to get the data for a data package even if the original data has been moved or removed, so that that I can still use is and my app or analysis keeps working.
+Error"As a Publisher, I want to be able to overwrite the previously tagged datapackage, so that that I can fix it if I mess up.
+Error"As a Publisher, I want to version my Data Package and keep multiple versions around including older versions, so that that I do not break consumer systems when I change my datapackage.
+Error "As a user, I want the flexfields in my submission file to appear in the warning and error files when the only error is a missing required element.
+Error "As a user, I want to restrict what can be entered to a metadata field.
+Error "As a Data Publishing User, I want to know if my CSV file is valid, So that I can fix possible data issues before publishing it on Open Spending.
+Error "As a Staff member, I want to Perform a Completeness Review, so that I can validate when an application is complete and eligible for further technical review.
+Error "As a Developer, I want to prevent users from double publishing FABS submissions after refreshing, so that there are no duplicates.
+Error "As a system administrator, I want to have a managed backup protocol for the system.
+Error "As a ResearcherPublisher, I want to understand the ways in which my data is invalid, so that I can know how to fix it.
+Error "As a user, I want to have files I might accidentally delete to be restorable.
+Error "As a researcher, I want to receive an alert of any unattached files that are in my workspace.
+Error "As a publisher, I want to be able to check that every time I update my data it is still good, so that I can catch errors early and store reliable data.
+Error "As a user, I want the publish button in FABS to deactivate after I click it while the derivations are happening, so that I cannot click it multiple times for the same submission.
+Error "As an agency user, I want the FABS validation rules to accept zero and blank for non-loan records.
+Error "As a user, I want to get feedback when I enter an invalid zip code.
+Error "As a Staff member, I want to Perform a Staff Review, so that I can validate compliance of an application with the Zoning Ordinance and impact approval/denial of the application accordingly.
+Error "As a camp administrator, I want to keep track of the usage of internal camp facilities, so that I don't create conflicting schedules for the different camp groups.
+Error "As a Developer, I want to add the GTAS window data to the database, so that I can ensure the site is locked down during the GTAS submission period.
+Error "As an Inspector, I want to Conduct Inspections, so that I can validate Customer compliance with code and regulations and provide results of the inspection to the Customer.
+Error "As a developer, I want to have detailed information of what happened when my App crashes on the user’s device.
+Error "As a Developer , I want to ensure that attempts to correct or delete non-existent records don't create new published data.
+Error "As a user, I want to have nice error pages when something goes wrong, so that I can trust the system and its developers.
+Error "As a ResearcherPublisher, I want to know that my data conforms to its Data Package profile, so that I can feel trust in the validity and usefulness of the data.
+learnability"As a Publisher, I want to know what do next after signing up, so that that I can get going quickly.
+Learnability"As a depositor, I want to easily find information about which data can be assigned a DOI, how to get one, and what metadata are required.
+learnability"As a Publisher, I want to see real examples of published packages so that I can understand how useful and simple the datapackage format and the registry is.
+Learnability"As a user, I want to use the tags that I use are part of a controlled vocabulary.
+learnability"As a site visitor, I want to know as soon as I visit what on earth Scrum is and why it needs an alliance, so that I don't bounce immediately oﬀ the page.
+Learnability"As a Platform administrator, I want to be able to translate the data types hierarchies of the Viewer while in embed mode, So that my users can understand the interface in their native language.
+Learnability"As a ResearcherGovernment Publisher, I want to add reference data on inflation to my spending dataset, so that the spending lines in my dataset is more understandable.
+Learnability"As a user, I want to find out what properties of a dataset can be updated.
+learnability"As a user, I want to see sensible and predictable URLs, so that the application feels logical and transparent.
+Learnability"As a ResearcherGovernment Publisher, I want to add general country names to my dataset that only contains country codes, so that my dataset is more readable.
+Learnability"As a researcher,  I want to have the ability to locate and access data that colleagues want to share.
+Learnability"As a developer, I want to have the accounting to be as simple and clear as Possible.
+Learnability"As a developer, I want to have an easy way to define questions the user can ask and perform.
+learnability"As a team member, I want to understand how work moves between UX/content > visual design > front end dev for a sprint cycle.
+Learnability"As a Data Consuming User, I want to visualize by default in treemap, bubble tree, map and pivot table the most recent year when my dataset contain multiple years, So that I'm not confused with the amounts.
+Learnability"As a data scientist, I want to be able to create a dataset instance of an existing dataset type without writing code.
+Learnability"As a developer, I want to be able to design my App on my own - though there will be a few rules I have to stand to.
+learnability"As an OlderPerson, I want to have an ALFRED device that speaks very slowly and clearly.
+Learnability"As a Data Consuming User, I want to see textual descriptions that accompany embedded visualisations, So that I can more easily understand what I am viewing.
+learnability"As an NSF employee, I want to learn about how Github is used, so that I can participate in the issues as assigned.
+learnability"As a MedicalCaregiver, I want to have a simple ALFRED unit that is expandable in is functions.
+learnability"As an OlderPerson, I want to insert my meetings into ALFRED using speech.
+learnability"As a collection curator, I want to lift an embargo for an object in a simple way.
+learnability"As an OlderPerson, I want to have everything preinstalled, so that I do not have to set up ALFRED by myself.
+Learnability"As a user, I want to find out what properties are supported by the dataset type what values are allowed and what the defaults are when creating a dataset instance.
+learnability"As a site visitor, I want to view a section of the website that teaches me the basics of what Scrum is, so that I can learn that quickly.
+Learnability"As a developer, I want to have an easy way to read data from health sensors the user is wearing.
+Learnability"As a user, I want to view user documentation for the website, so that I know how to use the web app.
+Learnability"As a UI designer, I want to redesign the Resources page, so that it matches the new Broker design styles.
+learnability"As a visitor, I want to see the embargo status and release date clearly displayed and perhaps highlighted in some way.
+learnability"As a moderator, I want to see dates and times in my local timezone, so that I don't have to do timezone conversion myself.
+learnability"As a Consumer, I want to see some example data packages quickly, so that I get a sense of what is on this site and if it is useful to look further.
+learnability"As a depositor, I want to see what kinds of things the repository accepts and what formats are accepted and recommended.
+Learnability"As a site visitor, I want to be able to read some of your articles, so that I can learn without first joining the site.
+Learnability" Efficiency, ,As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data.
+Learnability" Memorability,As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful.
+Learnability" Memorability,As a Data Consuming User, I want to have consistent use of colour on map visualisations, So that I can better understand the visual logic of the map view.
+Learnability" Memorability,As a site visitor, I want to have articles that interest me and are easy to get to, so that I come to the site for my agile news and learning.
+Learnability" Memorability,As a company, I want to have a website that is easy to use, so that I can upload or delete stuff step by step.
+Learnability" Memorability,As a content editor, I want to be able to easily find content, so that I can edit it.
+learnability" prevention of errors,As a depositor, I want to get feedback post-ingest alerting me if files I submitted do not conform to their format specifications, if they are not valid, or if they are not wellformed.
+memorability"As a Visitor, I want to sign up via github or google, so that that I don't have to enter lots of information and remember my password for yet another website.
+memorability"As a repository manager, I want to see a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
+Memorability"As a member, I want to receive a reminder and a link, so that I can renew my membership.
+Memorability"As a Developer , I want to clarify to users what exactly is triggering the CFDA error code in each case.
+memorability"As a designer, I want to have a style guide / design guide / content guide, so that we have a uniform way of delivering product.
+Error"As a pipeline designer, I want to get a meaningful error message when pipeline creation fails when I use an existing dataset as a sink or source, so that I know that the schema or any other property of the dataset is incompatible with what the pipeline requires.
+memorability"As a developer, I want to have a list of definitions for commonly used terms, so that everyone working on the project can understand each other more easily.
+Memorability" learnability,As a developer, I want to have the API to be well defined and well documented.
+satisfaction"As a publisher, I want to embed an interactive preview of my data on my site, so that users can be encouraged that this is the correct data for them.
+satisfaction"As a camp administrator, I want to be able to delete parents from the database, so that I can keep my pages free of unneeded clutter.
+Satisfaction"As a Developer, I want to customize an existing wizard for my specific type of data, so that I can give my users a great user experience.
+Satisfaction"As an Owner, I want to design a schedule from the UI SME, so that I know the potential timeline of the UI improvements wanted.
+Satisfaction"As an OlderPerson, I want to have ALFRED to help to motivate me during the week to do exercise that should change daily, as the constant change motivates me.
+satisfaction"As a Publisher, I want to be able to preview the views of the current data package using cli prior to publishing, so that that I can refine the json declarations of datapackage view section to achieve a great looking result.
+satisfaction"As a camp administrator, I want to be able to delete tasks/activities I scheduled, so that I can keep the schedule clean of unneeded activities.
+Satisfaction"As a serious games developer, I want to be able to take control over some functions to provide the desired user experience.
+Satisfaction"As a user, I want to have a great UI and UX from the sites, so that I have a pleasant experience when navigating through them.
+satisfaction"As an OlderPerson, I want to be able to customize my preferences in the different functionalities of the solution.
+Satisfaction"As an OlderPerson, I want to have the ALFRED shirt has to be non stigmatizing.
+Satisfaction"As an InformalCaregiver, I want to have a game that the carer could play together with the user, so that it would enable to monitor the users’ state of health but also have some fun time.
+satisfaction"As a VisualDesigner, I want to concept different styles for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+Satisfaction"As a lab administrator, I want to theme the Web interface graphics/colours.
+satisfaction"As a camp administrator, I want to be able to delete campers from the database, so that I can keep my pages free of clutter.
+Satisfaction"As a Developer, I want to be able to customise the Brand Name and Icon, and Primary Color of all frontend Javascript apps, So that I can customise the branding for my own needs.
+Satisfaction"As an agency user, I want to be confident that the data coming from SAM is complete.
+Satisfaction"As an OlderPerson, I want to have the ALFRED shirt to look good.
+Satisfaction"As an OlderPerson, I want to have games that include my favourite sports.
+Satisfaction"As a user, I want to click on the address, so that it takes me to a new tab with Google Maps.
+Satisfaction"As an OlderPerson, I want to play games where I can use my Imagination.
+Satisfaction"As the site editor, I want to have pretty good control over how the article, so that articles are visually appealing.
+Satisfaction" Accessibility,As a Data Consuming User, I want to be able to have stepped zoom on map visualisations, So that I can have better control over the navigation experience inside a map view.
+"As a designer, I want to have a new social media wireframe, so that I can begin implementing design.
+"As a researcher, I want to associate meta data to the group as a whole at some point in time after the bulk upload has completed, so that I have a period of time to reflect on suitable values for the meta data.
+"As a collection curator, I want to be able require authentication to access objects unless the request is coming from a whitelisted IP address, list of addresses.
+"As a collection curator, I want to see the scheduled records deletion date be displayed on the item and component pages.
+"As a Planning Staff member, I want to Conduct and Track Plan Amendments and Planning Studies, so that I can record work in process, outcome, and location-based information related to the Plan(s).
+"As a camp administrator, I want to be able to add campers, so that I can keep track of each individual camper.
+"As a developer, I want to provide an easy way to manage the user Settings.
+"As a Website user, I want to access published FABS files, so that I can see the new files as they come in.
+"As an OlderPerson, I want to know exactly what ALFRED does with my personal data, and share it only on my specific permission.
+"As a moderator, I want to enter the agreed-upon estimate, so that we can move on to the next item when we agree.
+"As a collection curator, I want to have items be made available under the permissions they were configured once the embargo date has been reached.
+"As an API User, I want to be able to normalise measures by GDP, so I work with datasets in reference to their contextual constraints.
+"As an OlderPerson, I want to have video conversation with others.
+"As a team member, I want to understand how time off overlaps with plans around the user research.
+"As a Researcher, working with data in NetCDF, I want NetCDF integration, so that I can store my data in plaintext while still retaining its metadata.
+"As a parent, I want to be able to connect with the staff in case of an emergency.
+"As a trainer, I want to create an Other Course or Event I am charged a listing fee for that activity, so that I don't list events I don't really intend to hold.
+"As an OlderPerson, I want to have ALFRED to remind me to keep a good body posture.
+"As a parent, I want to be able to message my child's counselors, so that I can voice my concerns or check on my child's progress.
+"As a Publisher, I want to add type information to my data, so that it is more useful to others and can be used better with tools like visualization programs.
+"As a web recruiter manager, I want to confirm the recruiter is set up and working properly on Science360.gov.
+"As a user, I want to view and update an inventory of of the equipment and consumables that are present in the centre.
+"As a system administrator, I want to migrate data from an older version of NeuroHub to the current version.
+"As a camp administrator, I want to be able to schedule tasks/activities for a specific camp group, so that I can track each groups daily/weekly and monthly activities.
+"As a lab member, I want to view events and equipment bookings within the group.
+"As a developer, I want to have the subdomain beta.nsf.gov be set up, so that I can deploy a beta site to it.
+"As a Developer, I want a DAT integration, so that I can integrate data-packaged data with pipelines that use DAT.
+"As an OlderPerson, I want to receive suggestions about local sport Classes.
+"As a site visitor, I want to do a full-text search of article body, title, and author name, so that I can find what I want.
+"As a Staff member, I want to Track  the Draft Proffers, so that I can preserve the history of draft proffer statements submitted by the Applicant.
+"As a Staff member, I want to create each condo unit, so that I can associate it to the child parcel and address after the condominiums are recorded in the system.
+"As a Publisher, I want to tag datapackage to create a snapshot of data on the registry server, so that that consumers can refer to it.
+"As an app developer, I want to ensure that when I deploy an artifact without creating an app this will not create any dataset types or instances.
+"As an executive, I want to have full access to data related to my company, so that I can have a sense of my company's performance.
+"As a Data Consuming User, I want to be able to download an image ofa particular view state, So that I can use it offline.
+"As a user, I want to assign tags to files that I have uploaded.
+"As an OlderPerson, I want to have ALFRED on a bracelet or a necklace, so that I can always wear him with me.
+"As a user, I want to prove definitively that I created a page on a certain date.
+"As a user, I want to be able to access the site and do all the other stuffs on all of my electronic devices.
+"As a Practitioner, I want to write an article for the site with a small graphic shown with the article showing my CSP or CST status, so that others know my certifications when reading.
+"As an OlderPerson, I want to have ALFRED to enable me to have face to face contacts as well, so that I do not just have virtual contacts over ALFRED.
+"As an Applicant, I want to Request PreApplication Assistance, so that I can receive a response to a request for a meeting or information that is a result of the preapplication assistance.
+"As an app developer, I want to share a dataset type that I had previously deployed as part of an app.
+"As a developer, I want to attend some UI/UX lessons, so that I can develop an awesome and beautiful features website.
+"As a site admin, I want to move people in a trainer's class from a pending state to the registry once I have received proof of payment from the trainer.
+"As an OlderPerson, I want to have an ALFRED device that responds to the changing demand of the users by offering new Apps in the ALFREDO platform.
+"As a Consumer, I want to search data packages, so that that I can find the ones I want.
+"As a Planning Staff member, I want to Generate Planning-related Reports, so that I can access, analyze and/or export the needed information in the format I requested.
+"As an Owner, I want to invite an existing user, so that the user can become a member of my publisher.
+"As a user, I want to be sure that existing metadata corresponding to the file is not lost when moving a file to a new location.
+"As a staff member, I want to denote an application with a Final Action status. So that I can finish it.
+"As a developer, I want to have created database indexes, so that the queries run as fast as possible.
+"As a Consumer, I want to search based on description of data package, so that that I can find package which related to some key words.
+"As a collection curator, I want to have a tool to perform author authority control.
+"As a camp administrator, I want to be able to set a reminders related to specific tasks that has to be done.
+"As a researcher, I want to have a timeline display of multiple data files and their associated images, so that I can compare the data taken from experiments on particular dates.
+"As a recyclingfacility representative, I want to have access to user stats and schedules, so that I can adjust my hours and/or upgrade equipment and capacity in order to be able to accomodate larger amounts of recyclable materials.
+"As an OlderPerson, I want to do guided exercises with ALFRED and ALFRED should also use sensors to capture health data while I am doing exercises.
+"As an API User, I want to be able to persistently store visualisation state in the database, So that such can be shared more easily and contribute to a visualisation gallery.
+"As a Plan Review Staff member, I want to Assign Plans for Review, so that I can ensure plans have been assigned to the appropriate Plan Reviewer.
+"As a collection curator, I want users to contact me directly from the repository to request access to restricted objects.
+"As an estimator, I want to see the item we�re estimating, so that I know what I�m giving an estimate for.
+"As a Data user, I want to have the 12-19-2017 deletions processed.
+"As an admin, I want to be able to block specific users based on IP address, so that I can prevent spamming on the websites.
+"As a publisher, I want to embed a preview button on my site, so that users can preview the data and be encouraged that this is the correct data for them.
+"As a Publisher, I want to permanently delete a data package, so that that it no longer takes up storage space.
+"As an Owner, I want to reset the environment to only take Staging MAX permissions, so that I can ensure that the FABS testers no longer have access.
+"As an OlderPerson, I want to use ALFRED to see who is standing at my door and open the door.
+"As a site member, I want to fill out an application to become a Certified Scrum Practitioner, so that I can earn that designation.
+"As an admin, I want to be able to communicate directly with facilities, so that I can keep them updated about features we have on our website.
+"As a researcher, I want to access files stored in my Neurohub workspace, using a network drive attached to my workstation.
+"As a pipeline developer, I want to upgrade a dataset instance to a newer version of the code after the pipeline was created.
+"As a Staff member, I want to Manage Affidavits, so that I can ensure compliance with the requirements prior to the hearing.
+"As a MedicalCaregiver, I want to have ALFRED to propose training that promotes complex thinking.
+"As a moderator, I want to delete a game, so that stories and estimates for this game are no longer stored.
+"As a user researcher, I want to have the finalized OLPA task script, so that I can begin testing with internal users.
+"As a parent, I want to be able to see if I made all the necessary payments.
+"As a ResearcherPublisher, I want to publish Data Packages to CKAN, so that my data is findable, and I can have a data API.
+"As a user, I want to be able to enter my zip code and get a list of nearby recycling facilities, so that I can determine which ones I should consider.
+"As an OlderPerson, I want to receive a wake up call from ALFRED in the morning checking on me if I am ok.
+"As a research participant, I want to make sure that the appearance of the prototype does not distract from the workflow, so that I can complete the user interview.
+"As a government Publisher, I want to make it easy to prove that our published data is valid, so that I can claim that we are living up to our transparency commitments.
+"As a dataset developer, I want to explore a dataset instance created from a dataset type that was deployed by itself.
+"As an OlderPerson, I want to have an ALFRED device that only listens to me when I ask it to.
+"As an OlderPerson, I want to receive support to use the public transport.
+"As a user, I want to link my email account to my profile, so that I can get a temporary password in case I forget my own one.
+"As an OlderPerson, I want to use ALFRED to maintain my contact list in my phone.
+"As a JuniorResearcher,  I want to have the ability to harvest knowledge from within the group, so that I can learn from more experienced researchers.
+"As a Developer, I want an SPSS integration, so that I can integrate data-packaged data with pipelines that use SPSS.
+"As an app developer, I want to create a dataset instance with a specific version of a dataset type.
+"As an advertiser, I want to be emailed a reminder seven day before an ad is about to expire, so that I can go extend the ad.
+"As a Plan Review Staff Member, I want to Review the Code Modifications submitted by the Applicant, so that I can review the request and if approved, associate it with the appropriate project.
+"As a parent, I want to be able to create an account, so that I can sign up my kids for camp online.
+"As a repository manager, I want to view a dashboard statistics about collections size including a list of collections, the number of items and components in each, total storage consumed by each collection, visualization of deposit activity.
+"As a Publisher, I want to use a publish command to update a data package that is already in the registry, so that it appears there.
+"As a participant, I want to be shown all estimates at the same time after all estimators have given their estimate, so that I can be sure estimates are independent and not influenced by other estimates given in the same draw.
+"As an OlderPerson, I want to have ALFRED ask spontaneous questions but it would be better to programme it during certain times of the day.
+"As a MedicalCaregiver, I want to have feedback on the activity level of the user.
+"As a recyclingfacility representative, I want to be able to update my information and the type of material I accept, so that I can avoid any miscommunication with users.
+"As a corporatesponsor, I want to make my logo randomly appear on the home page, so that others see the company's support of Scrum.
+"As a UI designer, I want to move on to round 2 of DABS or FABS landing page edits, so that I can get approvals from leadership.
+"As a site admin, I want to view all classes in a pending state, so that I can approve any that need to be approved.
+"As a Consumer, I want to see a publisher's profile, so that that I can discover their packages and get a sense of how active and good they are.
+"As a moderator, I want to get a password reminder by email, so that I can get back to using the application when I've forgotten my password.
+"As an OlderPerson, I want to have some games that show me how good my memory and physical health is.
+"As an author, I want to be able to indent / outdent content.
+"As a trainer, I want to load an Excel file into the site, so that the course participants are added to the Scrum Alliance records.
+"As an OlderPerson, I want to be able to pay for small amounts.
+"As a site editor, I want to edit the content of the email automatically sent to new Certified Scrum Masters and Product Owners, so that I don't need to involve a programmer on simple email edits.
+"As an NSF administrator, I want to shadow the CMS implementation, so that I can learn as the prototype is developed further.
+"As an owner, I want to invite someone using their email to sign up and become a member of my Publisher, so that that they are authorized to publish data packages under my Publisher.
+"As an agency user, I want the FABS validation rules to accept zero and blank for loan records.
+"As a user, I want to have accurate and complete data related to PPoPCode and PPoPCongressionalDistrict.
+"As an admin, I want to be able to add or remove recycling facilities' information, so that users get the most recent information.
+"As a recruiter, I want to post a help wanted ad, so that I can attract candidates.
+"As a collection curator, I want to see the referers for visitors who use resolver-abstracted links to reach my items.
+"As a Consumer, I want to download a Data package at a particular version, so that that I know it is compatible with my scripts and system.
+"As an owner, I want to remove someone from membership in my publisher, so that they no longer have ability to publish or modify my data packages.
+"As an OlderPerson, I want to be able to manage my privacy and data settings.
+"As a content designer, I want to demonstrate the value of user-centered content design to ensure it's an integral part of our recommendations.
+"As a developer, I want to obtain Apps development support.
+"As a site visitor, I want to see a list of all upcoming Other Courses and can page through them if necessary, so that I can choose the best course for me.
+"As a trainer, I want to update one of my existing courses or events, so that it reflects accurate information.
+"As a repoadmin, I want to provide a Linked Data interface to the repository.
+"As a collection curator, I want to have the repository queue my collection for replication upon ingest to our remote storage site and to display the remote replication status in each item and component page in the staff interface.
+"As a researcher, I want to develop the user research protocol for internal workflows, so that we can begin testing against a CMS prototype.
+"As a system administrator, I want to run a script that tests to see if a Neurohub installation is functioning correctly.
+"As a researcher, I want to have services to support the long term curation of data, so that I can be sure that data will not get 'lost' with the passage of time.
+"As a Mike, I want to be able to see some metrics on use of the game, so that I can see how much it is being used.
+"As a user, I want to specify as part of dataset configuration whether it is explorable.
+"As a Publisher, I want to know if this site has a pricing plan and what the prices are, so that that I can work out what this will cost me in the future and have a sense that these guys are sustainable.
+"As a site member, I want to download the latest training material and methodology PDFs, so that I have them.
+"As a Data Publishing User, I want to have a view on all the datasets I have published, So that I can perform management actions on my own datasets.
+"As a user, I want to configure time-to-live in a uniform way across all dataset types.
+"As an OlderPerson, I want to always keep control on the activities of ALFRED.
+"As an OlderPerson, I want to use ALFRED to hear about the news.
+"As a researcher, I want to create a log book page for an experiment and attach a directory that contains multiple files.
+"As a Publisher, I want to validate the data I am about to publish to the registry, so that that I publish good data and know that I am doing.
+"As a researcher,  I want to have the ability to restrict the data I share to certain researchers or groups of researchers.
+"As a l Staff member, I want to search for Property information, so that I can obtain all associated current and historic owners, permits, and applications.
+"As an OlderPerson, I want to use ALFRED for navigation.
+"As a repoadmin, I want to expose repository contents via OAI-PMH
+"As an OlderPerson, I want to have the wearables with integrated sensors to look good and not to be stigmatizing.
+"As a MedicalCaregiver, I want to have ALFRED to remind people to exercise regularly.
+"As an OlderPerson, I want to use ALFRED to contact people from my own circle.
+"As an API User, I want to be able to get a CSV output of any cube-based query, So that I can use work with tools that read CSV.
+"As a Data Consuming User, I want to be able to share a view state as a URL to social networks, So that I can share data that I have found with others.
+"As a researcher, I want to upload files prior to having them attached to a log book page using the web interface.
+"As an API User, I want to be able to understand if a user is an Administrator, So that I can offer functionality based on Platform Administration privileges.
+"As an admin, I want to have all data encrypted, so that important information will not be stolen during a server breach or an attack.
+"As a Developer , I want to update the FABS sample file to remove FundingAgencyCode after FABS is updated to no longer require the header.
+"As an OlderPerson, I want to receive a reminder from ALFRED on all the things I need to bring with me when I leave the house.
+"As a Publisher, I want to publish a data package in the UI, so that that it is available and published.
+"As an app developer, I want to ensure that when I deploy a new version of an app that includes an older version of a dataset type deployed by another app and I expect that the dataset instances created by this app use the dataset type code included in this app.
+"As a researcher,  I want to have the ability to interact with a revision control system so that I can keep track of changes to files over time.
+"As a site visitor, I want to view lists on the site of all Certified Scrum Masters, Practitioners, Trainers, and Certified Scrum Product Owners.
+"As a Staff member, I want to Send a Formal Response to Applicant, so that I can satisfy communication and records responsibilities.
+"As an OlderPerson, I want to have ALFRED to suggest healthy recipes.
+"As an app developer, I want to explore a dataset instance of a type that was deployed as part of an app.
+"As a superuser, I want to reply to user questions, so that I can answer any questions about my recycling center.
+"As a Publisher, I want to be able to provide a visualization of data in the Data Package, so that I can provide my analysis and show my work to users of the data.
+"As a MedicalCaregiver, I want to have a regular summary on how much exercise is performed by the user.
+"As a researcher, I want to collect data as a library of data, which can then be used by one or multiple experiments that are defined at a later stage.
+"As an agency user, I want to ensure that deleted FSRS records are not included in submissions.
+"As a moderator, I want to estimate a story we estimated earlier in the session again, so that we can give a new estimate if we feel different about the story after estimating other related stories.
+"As a publisher, I want to show the world how my published data is, so that that it immediately catches consumer's attention.
+"As a moderator, I want to delete my account, so that account information and games are no longer stored.
+"As a trainer, I want to copy one of my courses or events, so that I can create a new one.
+"As a DigitalRecords Archivist, I want to have a method to add and remove multiple people to deposit groups in specific collections, to set a date that the deposit window closes, and to have these permissions conferred on these depositors should pick up on the collection's default permission.
+"As a camp administrator, I want to be able to keep track of which camper submitted which forms, so that legal issues are avoided.
+"As a collection curator, I want to map an item or items from one collection to another, so that an item may administratively belong to one collection but could appear in other collections.
+"As a Data Publishing User, I want to be able to edit the data source of data I have already imported, So that I can fix bugs or make enhancements in the API built for my data.
+"As a team member, I want to know what visual design related tasks we might need to plan for this sprint, so that I can assign tasks as necessary.
+"As an OlderPerson, I want to use ALFRED to control the heating.
+"As a camp worker, I want to be able to see which campers I am in charge of and where, so that I can make sure I am doing my job properly.
+"As a Consumer, I want to view a publisher's profile, so that that I can see who is behind a particular package or to see what other packages they produce.
+"As a developer, I want an online service that is connected to my data repository that validates data on update, so that I can delegate data validation to a third party.
+"As a Customer, I want to Create a Customer Portal User Account, so that I can log on to the Customer Portal and perform transactions that first require user authentication.
+"As a user, I want to be able to create an acocunt, so that I can create my own profile.
+"As a plugin developer, I want to upgrade the code of a dataset type used by a dataset instance created by that plugin when I deploy a new version of the plugin and update the pipeline to use that version.
+"As a user, I want to be able to give my email ID, so that I can receive notifications for new events as they are posted.
+"As a Publisher, I want to publish a dataset, so that I can share the dataset publicly with everyone.
+"As a DigitalRecords Archivist, I want to have a method to add and remove individual people from deposit groups.
+"As an OlderPerson, I want to get suggestions for sports classes in my neighbourhood.
+"As an OlderPerson, I want to use ALFRED to pick the phone sooner up when I am at home.
+"As an Admin, I want to set key configuration parameters for my site deployment, so that that I can change key information like the site title.
+"As a MedicalCaregiver, I want to control if the user does the exercise correct.
+"As an OlderPerson, I want to buy ALFRED for a low price.
+"As a researcher, I want to upload files prior to having them attached to a log book page using a mapped network drive.
+"As a visitor, I want to download presentations, PDFs, etc. on Scrum, so that I can learn from them or use them.
+"As a corporatesponsor, I want to display my logo on a corporate sponsors page, so that others see the company's support of Scrum.
+"As a trainer, I want to be assured that no one can submit the same answers multiple time and skew my results, so that my ratings are accurate.
+"As an API User, I want to be able to get a set of monetary measures transferred to different currencies, So that I can use this in scenarios that might enable comparison by normalisation.
+"As an API User, I want to be able to normalise measures by GINI and related socioeconomic indexes, So that I work with datasets in reference to their contextual constraints.
+"As an Owner, I want to edit my profile, so that that it is updated with new information.
+"As a user, I want a mechanism for electronically sharing papers and notes with other researchers, so that we can collaborate effectively.
+"As a site visitor, I want to read a new article on the front page about once a week, so that I am up on all the latest happenings.
+"As a camp administrator, I want to be able to schedule activities for campers, so that camp workers can easily keep track of who is where at all times.
+"As a Consumer, I want to view a Datapackage at a particular version online, so that that I can present/discuss the particular data timeslice of interest with other people.
+"As a data contributor, I want to refer to the Disaster Recovery Plan in grant proposals and Data Management Plans.
+"As a parent, I want to be able to track my child's activity and schedule at camp, so that I can have peace of mind.
+"As a camp administrator, I want to be able to keep camper records from previous years, so that the amount of work I need to do is lowered.
+"As a developer, I want an DSpace integration, so that I can integrate data-packaged data with pipelines that use Dspace.
+"As a collection curator, I want to view the permission on my objects all together.
+"As a developer, I want to take a dataset offline, so that I can perform a long-running maintenance or migration procedure.
+"As a dataset developer, I want to list all dataset instances that use a dataset type or a specific version of a type.
+"As a Staff member, I want to Assign a Hearing Date, so that I can present the application to the appropriate governing body within the timelines dictated by the relevant County rules and procedures.
+"As a Data Publishing User, I want to know what my data needs to be able to be visualised on a map, So that I can visualise it on a map.
+"As a team member, I want to have an updated acquisitions roadmap, so that I can plan accordingly.
+"As a repoadmin, I want to have users to be presented with a license or a selection of licenses, specific to the collection, and deposit to be denied if the submitter does not accept the license.
+"As an OpenSpending Community Member, I want to have an app where I can find examples of use of fiscal data visualisations, So that I can find guidance in creating my own with Open Spending.
+"As a user, I want to have the application respond quickly to my actions, so that I don't get bored.
+"As a Publisher, I want to undelete the deleted data packages, so that that the deleted data packages is now visible again.
+"As a Data Consuming User, I want to be able to filter, sort and aggregate data by multiple dimensions and measures, So that I can get more granular views on the data.
+"As an NSF employee, I want to have high-level strategy recommendations to implement in conjunction with the new CMS.
+"As a camp worker, I'm able to report necessary repairs to the manager that the camp is needed of.
+"As a user, I want to make predicated links between files.
+"As an OlderPerson, I want to buy ALFRED in a senior shop with special client support.
+"As a researcher, I want to have the ability to insert Greek symbols into my logbook entries.
+"As a DigitalRecords Archivist, I want to grant embargo privileges to other repository administrators.
+"As an OlderPerson, I want to receive a medicine reminder from ALFRED.
+"As a user, I want to revert to an older version of an uploaded file.
+"As a camp administrator, I want to be able to modify the information of added parents, so that I can keep parent's information up to date.
+"As a MedicalCaregiver, I want to have videophone.
+"As an OlderPerson, I want to use ALFRED to do my grocery shopping.
+"As a recruiter, I want to be able to extend an ad for another 30 days by visiting the site and updating the posting, so that my ad remains active.
+"As a Researcher, I want an app that create proxy Data Packages for well know and reliable data, sources, so that I can load high quality data using Data Package tooling.
+"As the site editor, I want to add an article to the site, so that the site has plenty of content.
+"As a Publisher, I want to unpublish a data package, so that it is no longer visible to anyone.
+"As a site member, I want to have full access to all articles, so that there is a benefit to being a member.
+"As a user, I want to be able to get the hours of each recycling facility, so that I can arrange drop-offs on my off days or during after-work hours.
+"As a site visitor, I want to post comments about articles, so that others can read them.
+"As a researcher, I want to secure remote access to the Neurohub node when working away from the laboratory
+"As a researcher, I want to have physiology images to be annotated with standard meta data, so that my data can later be searched for and understood.
+"As a ResearcherPublisher, I want an integration with Zenodo, so that when I store my dataset in GitHub, I don’t have to retype descriptive information about my dataset.
+"As an OlderPerson, I want to receive specific tips how to reduce my health impairments without medication.
+"As an OlderPerson, I want to use ALFRED to navigate to an event or concert and help me when I am lost.
+"As a user, I want to remove a single property of a dataset instance without knowing all other properties.
+"As a Publisher, I want to sign up for an account, so that that I can publish my data package to the registry and to have a publisher account to publish my data package under.
+"As a Publisher, I would like a tool to check data availability persistence after publication.
+"As an Applicant, I want to Check the Status of a transaction, so that I can understand where the provisioning of my service is in the process, such as information related to service levels, fees, plan review, permit, or inspection results.
+"As a user, I want to make uploaded data files to be non-modifiable.
+"As a Civic Tech Activist, I want to make it easy to assess the quality of data stored by the government, so that I can make sure that government is living up to its transparency commitments.
+"As an OlderPerson, I want to have a small ALFRED device that is wearable and easy to carry with me.
+"As a Publisher, I want to sign up for a given pricing plan, so that that I am entitled to what it allows.
+"As a user, I want to choose a flexible pick up time, so that I can more conveniently use the website.
+"As a parent, I want to see which counselors are assigned to my kids, so that I can have peace of mind.
+"As a user, I want to be able to receive tempting rewards, so that I have a reason to use the website.
+"As a Researcher, I want an app that generates an OpenRefine reconciliation API endpoint from a Tabular Data Package, so that I can use it to clean messy data.
+"As a Developer, I want Feather integration, so that I can integrate data-packaged data with pipelines that use Feather.
+"As a site administrator, I want to edit any site member profile, so that I can correct problems for members.
+"As an OlderPerson, I want to have clear instructions and service after sales that guide me if I have trouble in using ALFRED.
+"As a moderator, I want to view a transcript of a game, so that I can see the stories and estimates.
+"As a team member, I want to have a high-level sense of the project timeline, so that I can plan my work.
+"As a Developer, I want HDF5 integration, so that I can integrate data-packaged data with pipelines that use HDF5.
+"As a Plan Review Staff Supervisor, I want to Manage Plan Reviewer Workload, so that I can monitor and effectively adjust workload as necessary and ensure service levels are met
+"As a UI designer, I want to track the issues that come up in Tech Thursday, so that I know what to test and what want s to be fixed.
+"As a user, I want to manage the references / papers I have investigated.
+"As an OlderPerson, I want to have ALFRED to give me goals and missions that encourage me to do new activities and exercises and to go out.
+"As an MRI operator, I want to digitally record the responses that subjects make when completing paper-based forms.
+"As a MedicalCaregiver, I want to be able to see if the patient has taken her medicine.
+"As a researcher, I want to have the ability to search for files by file type and format.
+"As a Platform Administrator, I want to have a view on all datasets published by all users, So that I can perform management actions on any dataset.
+"As a collection owner, I want to have submitters to my collection to be unable to modify existing items in that collection.
+"As a Data Publishing User, I want to have the Packager support Constants, So that I can model dimensions that may not exist in the source file.
+"As an OlderPerson, I want to use ALFRED to learn about art expositions or a museum.
+"As a researcher, I want to have the ability to attach standard meta data for behavioural observations (and video), so that my data can later be searched for and understood.
+"As a researcher, I want to have electronic support for keeping track of which data sets were used/output/modified as part of a particular experiment.
+"As a Developer, I want to update the Broker validation rule table to account for the rule updates in DB-2213.
+"As a company accountant, I want to view all available activity fees online, so that I can easily create a bill statement.
+"As a user, I want to be able to view a map display of the public recycling bins around my area.
+"As a collection curator, I want to have a summary of all remote replication status at collection level on my dashboard.
+"As a team member, I want to see the first iteration of beta up on cloud.gov.
+"As a site member, I want to search for profiles based on a few fields, so that I can find others I might want to connect with.
+"As a Publisher, I want to have private data packages, so that I can share just with my team.
+"As a site visitor, I want to read current news on the home page, so that I stay current on agile news.
+"As a site administrator, I want to create an Other Course or Event that is not charged a listing fee, so that the Scrum Alliance doesn't charge itself for Scrum Gatherings that it puts on.
+"As a developer, I want to have the application function correctly in Internet Explorer 6 and 7, Firefox 1.5 and 2, and Safari 2, so that as many people as possible can fully use the application.
+"As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's breathing frequency.
+"As a user, I want to capture the same metadata for each file created in an experimental run.
+"As a user, I want to search for and download human-readable experimental protocols.
+"As a developer, I want to have my App to be granted access to several operating system features.
+"As a camp worker, I'm able to report a camper to the manager with an inappropriate behavior.
+"As a supervisor, I want to view what my researchers were doing on a given date or period of time.
+"As an OlderPerson, I want to play online games together with other users.
+"As a researcher, I want to have the system to provide standard metadata, that all researchers in the centre (and beyond) can use, so that we can better understand each others' data.
+"As a participant, I want to have a small thumbnail photo displayed near where my cards are played, so that the game is more personal because I see who I'm estimating with.
+"As a repoadmin, I want to update the repository index without disrupting access to the public interface.
+"As a collection curator, I want to have the item to be allowed under the access permissions set on the object after the embargo data is reached.
+"As a MedicalCaregiver, I want to locate the ALFRED user.
+"As a Developer, I want D Files generation requests to be managed and cached, so that duplicate requests do not cause performance issues.
+"As a site member, I want to mark my profile as private in which case only my name will appear, so that no one can learn things about me I don't want shared.
+"As an OlderPerson, I want to use ALFRED to turn on/off the lights.
+"As a site admin, I want to edit and delete help wanted ads, so that I can correct small problems or make sure each ad complies with site guidelines.
+"As a Data Publishing User, I want to be able to add a dataset in a Hidden state, So that I can work on a dataset before having it discoverable via OpenSpending user interfaces.
+"As a team member, I want to have a prototype strategy, so that I understand how we will gain understandings from tests that will drive recommendations.
+"As a site editor, I want to maintain a FAQ section, so that support gets fewer easily answered questions.
+"As a Staff member, I want to Manage Bonds, so that I can track and manage bonds throughout the lifecycle of the project until release.
+"As a Data Consuming User, I want to be able to share an image of a particular view state to the social networks that support this, So that I can provide richer context in those communication channels for data I am sharing.
+"As a Researcher, I want to be able to translate my EML dataset to a Data Package, so that I can benefit from the wide array of tools available for Data Packages.
+"As an app developer, I want to ensure that all dataset instances created by Hydrator pipelines are accessible to the app.
+"As an data user, I want to receive updates to FABS records.
+"As a DigitalRecords Archivist, I want to edit the length of embargoes.
+"As a researcher, I want to have the ability to search for images of cells using standard meta data.
+"As a Staff member, I want to Assign an Application for Detailed Review, so that I can review the for compliance and subsequently approved or denied.
+"As a user researcher, I want to have the WIG prototype, so that I can finalize the second task script.
+"As an API User, I want to be able to understand if a user is a Publisher, So that I can offer functionality based on Dataset Publisher privileges.
+"As a collection curator, I want to allow some collections the option of setting an embargo date at deposit.
+"As a site editor, I want to set the following dates on a news item: Start Publishing Date, Old News Date, Stop Publishing Date, so that articles are published on and through appropriate dates.
+"As a site member, I want to scroll through a listing of jobs, so that I can see if there any I am interested in.
+"As a researcher,  I want to have the ability to attach standard meta data for drug responses, so that my data can later be searched for and understood.
+"As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+"As a researcher,  I want to have the ability to attach detailed meta data to the data and entries that I create.
+"As a site visitor, I want to access old news that is no longer on the home page, so that I can access things I remember from the past or that others mention to me.
+"As a camp administrator, I want to store campers' emergency information in a database, so that I can easily notify the necessary parties in case of an emergency.
+"As a Developer, I want to list all DataPackages requirements for my project in the file and pin the exact versions of any DataPackage that my project depends on, so that that the project can be deterministically deployed locally and won't break because of the DataPackage schema changes.
+"As a user, I want to have a flexible pick up time, so that I can more conveniently use the website.
+"As a site visitor, I want to see new content when I come to the site, so that I come back more often.
+"As a camp administrator, I want to provide bi-weekly feedback to camper's parents, so that they can be aware of their child's behavior and performance at camp.
+"As an API user, I want to be able to change the colors of the embedded visualisations in my own platform, So that I can customize the visualisations.
+"As a workshop attendee, I want to see a summary on major findings from the event.
+"As a researcher, I want to have a group-level repository for sharing papers/reviews/comments with other researchers.
+"As an Owner, I want to design an audit from the UI SME, so that I know the potential scope of the UI improvements want ed.
+"As a user,  I want to have the ability to change the sharing and ownership of multiple files.
+"As a website user, I want to see updated financial assistance data daily.
+"As a camp administrator, I want to be able to create, modify rules that campers and camp workers has to follow.
+"As a trainer, I want to create a new course or event, so that site visitors can see it.
+"As a CMS administrator, I want to have roles, so that I can assign them to my users.
+"As a user, I want to link together experimental runs to build an experiment.
+"As an estimator, I want to join a game by entering my name on the page I received the URL for, so that I can participate.
+"As a repoadmin, I want to have Symplectic Elements bidirectionally communicate and integrate with DDR, which  provide a Fedora Connector and Emory is using a hidden Fedora instance that Hydra collects objects for.
+"As an Applicant, I want to Pay Fee, so that I can satisfy outstanding charge associated with the service requested or received from the County.
+"As a CMS SME, I want to see the webmaster workflow report, so that I can understand how this might impact current direction.
+"As an Applicant, I want to Submit Application, so that I can provide my information, plans and/or documents to initiate a transaction with the County.
+"As an API User, I want to be able to get a relative percentage of a measure to the total of the dataset it comes from, So that I can build alternative displays of the data.
+"As a Developer, I want to use data package as a node lib in my project, so that that I can depend on it using my normal dependency framework.
+"As an admin, I want to onboard recycling centers on the platform, so that I can increase information accuracy.
+"As a user, I want to have a visual way of viewing particular files uploaded over a time period.
+"As a user, I want to view how an experimental protocol has evolved over time.
+"As a camp administrator, I want to be able to see all my camp groups and the events scheduled for each camp group, so that I can notify counselor of what their group will be doing for the day.
+"As a site editor, I want to create the content of the What Is Scrum section, so that it's there for visitors.
+"As a camp worker, I'm able to report a list of supplies to the manager that the camp is short of.
+"As a user, I want to add donation centers as favorites on my profile, so that I can view them later.
+"As a Researcher, I want to get a Data Package into LibreOffice/OpenOffice in seconds, so that I can start using the data for doing analysis and visualizations.
+"As an API User, I want to be able to dynamically request polygons based on the query made, So that I can provide maps that match the query.
+"As a Consumer, I want to know that the data I am downloading is good and can be relied on, so that that I don't have to check it myself or run into annoying bugs later on.
+"As a Data Analyst, I want to compare different versions of some datapackage locally, so that that I can see schema changes clearly and adjust my analytics code to the desired schema version.
+"As a hydrator user, I want to specify an explicit version of the dataset types of the dataset instances created by my pipeline and I expect pipeline creation to fail if that results in incompatible upgrade of an existing dataset instance that is shared with other apps or pipelines.
+"As a Publisher, I want to be able to get access to a previous version I tagged, so that that I can return to it and review it.
+"As a systems administrator, I want  to install Neurohub dependencies into an Ubuntu 10.04 LTS machine using the normal Ubuntu package management tools.
+"As a Consumer, I want to browse and find publishers, so that that I can find interesting publishers and their packages.
+"As a site member, I want to describe myself on my own page in a semi-structured way, so that others can learn about me.
+"As a Web Developer, I want to be able to install multiple versions of the same datapackage separately, so that that all my projects could be developed independently and deployed locally.
+"As an admin, I want to be able to read users' feedback and complaints, so that we can add more features and keep improving the service we provide to them.
+"As a DevOps engineer, I want New Relic to provide useful data across all applications.
+"As a moderator, I want to invite up to 15 estimators, so that we can play with large but not immense teams.
+"As a Publisher, I want to know how many users have previewed a dataset, so that I know how interest in a dataset relates to its actual download numbers.
+"As a Technical Staff member, I want to update the GIS Property Management, so that I can successfully update the transactional Parcel Pin to reference the GIS layer where the Split or Merged Parcel Pin exists.
+"As a ResearcherGovernment Publisher, I want to map lines in my dataset using geographic data in my dataset, so that my dataset is more engaging for non-technical users.
+"As a user researcher, I want to have a list of priority workflow candidates that we might test, so that I can make sure we're capturing the priority areas.
+"As a moderator, I want to change my account details, so that I can keep my account details up-to-date.
+"As a Staff member, I want to Apply a Hold, so that I can prevent progression through the workflow or other actions in the system until the issue is resolved.
+"As a DigitalRecords Archivist, I want to have the repository to lift embargoes on the release date and set the access controls to the configuration set on item on that date.
+"As a camp administrator, I want to be able to assign different positions to the staff members, so that it is possible to organize activities in terms of responsibilities.
+"As a user, I want to update the properties of a dataset instance and I expect this to fail if the new properties are not compatible with a meaningful error message.
+"As a researcher, I want to recruit for the last round of user research, so that we can summarize our findings and synthesize results.
+"As a user, I want to upload my week's schedule, so that I can get recommendations for recycling centers that best fit my availability.
+"As a camp administrator, I want to be able to see medical forms, so that we can be prepared for an allergy attack
+"As a trainer, I want to read information of relevance only to trainers, so that the Scrum Alliance can share information with me easily.
+"As a parent, I want to be able to sign and submit consent forms online, so that I don't have to deal with my child losing a consent form.
+"As a user researcher, I want to set up a website recruitment test, so that I can see if we can recruit users in real time from the website.
+"As an OlderPerson, I want to be able to see whether I already have taken my pills, so that I can avoid an overdose.
+"As a user, I want to draw tables using HTML tags as part of the content of a log book page.
+"As a user, I want to be able to check transaction history and keep a record of it, so that I can go back when needed.
+"As a Trainer, I want to include additional details in my profile page about me, so that others can learn about me and decide if I am the right trainer for them.
+"As a developer, I want to know what the three initial hypotheses are, so that I can plan work around development of prototypes.
+"As a developer, I want to access an API from the website, so that I can integrate it and implement certain features in my own iOS application.
+"As a user, I want to contact the administrators, so that I can give feedback or ask for help.
+"As a trainer, I want to turn a course into an event or an event into a course, so that I can correctly classify anything that was entered incorrectly.
+"As a participant, I want to always have the cards in the same order across multiple draws, so that it's easy to compare estimates.
+"As a Data Publishing User, I want to be able to Hide a dataset that I have already added as Public, So that I can fix my mistakes or have a dataset primarily for my own use.
+"As a DPC, I want events to be created when a publication is published and unpublished, who did it, comment, so that I can record when and why something was made unavailable.
+"As an app developer, I want to ensure that when I deploy a new version of an app that includes a shared dataset type that all dataset instances created by this app start using the new code but all dataset instances created by other apps remain unchanged.
+"As a superuser, I want to enter and exit the superuser scope.
+"As a DeveloperPublisher, I want a tool to create an embeddable data summary via iframe, so that I can embed data summaries across sites.
+"As a Staff member, I want to Send or Post Citations and Fines, so that I can successfully send the Notice Of Violation document to the property owner and log information about the action.
+"As a collection curator, I want to have metadata changes made to items with repository-assigned DOIs to be propagated to the EZID.
+"As a CST, I want to pay an annual fee, so that my CST status is active.
+"As a Staff member, I want to Remove a Hold, so that I can allow progression through the workflow or other actions in the system now that the issue has been resolved.
+"As a plugin developer, I want to include the code for a dataset type in the plugin artifact, so that when a pipeline using this plugin is created a dataset instance of that type is created and it is explorable and available to apps.
+"As a Staff member, I want to Capture a Hearing Decision, so that I can enforce the system.
+"As a site visitor, I want to see a list of the most popular items on the site, so that I am most likely to read the most important or best content.
+"As a site editor, I want to be able to indicate whether an article is publicly available or for members only, so that visitors are incentivized to become members.
+"As an OlderPerson, I want to decide who has access to my vital data.
+"As a site admin, I want to approve each help wanted ad before it gets to the site, so that we're sure of the quality of jobs being listed.
+"As an Admin, I want to have a pricing plan and billing system, so that that I can charge users and make my platform sustainable.
+"As a Consumer, I want to be notified of changes to a package I care about, so that that I can check out what has changed and take action.
+"As a repoadmin, I want to continue to provide access to the repository in the event that the server fails.
+"As a moderator, I want to show all estimates immediately, so that I can decide to show the estimates that have been given even though not all estimators have given their estimate.
+"As a user, I want to store worm behaviour videos with an encoding that can be analysed by the worm analysis software written by Christopher James.
+"As a UI designer, I want to begin user testing, so that I can validate stakeholder UI improvement requests.
+"As a dataset developer, I want to have the option of implementing an upgrade step for when a dataset instance is upgraded to a new version of the dataset type.
+"As a parent, I want to be able to submit various type of forms to the camp management.
+"As an NSF employee, I want to understand the process of switching the cloud.gov hosting plan over from prototype to FISMA low.
+"As an app developer, I want to perform custom administrative operations on dataset instances from my app and the CLI and REST or the UI.
+"As a team member, I want to know what the first hypothesis is, so that I can start developing a prototype to test.
+"As a developer, I want to upgrade to Fedora 4 and migrate our applications and data.
+"As a camp administrator, I want to be able to keep my information in one place, so that the admins next year can improve on the previous years.
+"As a Staff member, I want to Manage Approved Proffers, so that I can ensure compliance with and satisfaction of the proffer in the future.
+"As a user researcher, I want to continue scheduling interviews for hypothesis #1, so that I can be prepared to test our first prototype.
+"As a hydrator user, I want to create a pipeline that reads or writes a new dataset instance and I want to create that dataset instance as part of pipeline creation.
+"As a participant, I want to scroll back through the stories and estimates from prior rounds, so that I can use this information when I estimate the item of the current round.
+"As a system administrator, I want to run a script that installs the Neurohub node onto a virgin Ubuntu operating system.
+"As a user, I want to add a video to my article.
+"As lab administrator, I want to have increased access to the system to support regular users.
+"As a RepositoryManagerResearcher, I want an app that acts as a match-making service for packaging data, so that owners are paired with data packagers.
+"As a repository manager, I want to be able t run a report periodically showing the storage consumed by each financial contact.
+"As a moderator, I want to select whether to have the team estimate with {0, 1/2, 1, 2, 3, 5, 8, etc.} or {0, 1, 2, 4, 8, 16, 32, etc.}, so that the team can use either the modified Fibonacci sequence or powers of 2.
+"As a developer, I want to know the fees the provider of the market place charges for using the platform.
+"As a broker team member, I want to make some updates to the SQL codes for clarity.
+"As an OlderPerson, I want to use ALFRED to pay for small amounts.
+"As a researcher, I want to share post-experiment write-ups with other researchers, so that others can more easily replicate my work.
+"As an OlderPerson, I want to have my data stored directly on the phone.
+"As a Platform Administrator, I want to be able to Hide any dataset already added as Public, So that I can maintain Public/Hidden status for other users.
+"As a camp administrator, I want to be able to suspend a camper who had behavioral problems.
+"As a researcher,  I want to have the ability to store all the inputs for an experiment so that the provenance of the results can be verified.
+"As a Developer, I want a Mongo integration, so that I can integrate data-packaged data with pipelines that use Mongo.
+"As a researcher, I want to create a log book page for an experiment and attach a file to this page.
+"As an OlderPerson, I want to receive day and night rythm support with agenda reminders.
+"As a user, I want to specify the explore schema separately.
+"As a user researcher, I want to begin identifying interview participants, so that I can understand what educators and science influencers need from a future nsf.gov website.
+"As a user, I want to have my personal information kept securely in the database of the website, so that I will not suffer from identity theft or telephone harassment.
+"As an owner, I want to be sure that USAspending only send grant records to my system.
+"As an OpenSpending Community Member, I want to have a blog that highlights any and all projects in the open fiscal space, So that I can relate to openspending.org as the central hub of fiscal openness.
+"As an API User, I want to have a flexible API using HASC codes for countries, regions and cities, So that I can visualise budget data on maps.
+"As a site editor, I want to have a prominent area on the home page where I can put special announcements not necessarily news or articles, so that I can give them additional exposure.
+"As a developer, I want to be notified as soon as possible when the state of any of my Apps changes.
+"As a team member, I want to have a prioritized list of features and elements of a future social element page, so that I can work with the engineers to determine feasibility.
+"As a site editor, I want to post information in a trainers-only section, so that only trainers see it.
+"As a MedicalCaregiver, I want to use video calls in case of emergency.
+"As an Inspection Supervisor, I want to Manage Inspector Workload, so that I can meet service level and quality requirements.
+"As a Planning Staff member, I want to Evaluate Consistency with the Comprehensive Plan, so that I can complete my required review of a plan set and/or application.
+"As a camp administrator, I want to be able to add parents, so that they can enroll their kids at camp.
+"As a collection curator, I want to restrict access to my collection or items to Duke IP addresses.
+"As a Researcher, I want to get my Excel spreadsheet into a Data Package, so that I can benefit from better tooling and standardization.
+"As a site admin, I want to see the results for each trainer and averages for the class, so that I can identify any outliers or possible problems.
+"As a designer, I want to know what early indications of hypotheses might be, so that I can start planning for the first prototype.
+"As a user, I want to be able to use Unicode, so that I can use any language I like.
+"As a UI designer, I want to move on to round 2 of Homepage edits, so that I can get approvals from leadership.
+"As a Publisher, I want to add useful metadata or add in new data columns to make the dataset more useful.
+"As a lab administrator, I want a way of managing worm strain stocks that is integrated with Wormbase.
+"As an OlderPerson, I want to have an ALFRED device that informs me about a low battery when leaving the house.
+"As a Researcher, I want to be able to reference a remote-controlled vocabulary for my dataset, so that I can be sure that column of my dataset are valid against a single shard list of terms.
+"As an OlderPerson, I want to have training for specific muscle Groups.
+"As an Inspection Staff member, I want to Create an Inspection, so that I can schedule and assign the inspection.
+"As an app developer, I want to tolerate existing datasets if their properties are different but compatible when creating a dataset as part of app deployment.
+"As a user, I want to see the properties that were used to configure a dataset instance.
+"As an OlderPerson, I want to use ALFRED to learn about all the social activities that are organized in my neighborhood.
+"As an OlderPerson, I want to use ALFRED to organize a meeting with a group of friends at a certain place.
+"As a site editor, I want to have some flexibility as to where things appear, so that I can accommodate different types of content.
+"As a camp administrator, I want to be able to modify a group's information, so that I can keep the groups up to date.
+"As a MedicalCaregiver, I want to be sure that the user can decide who has access to her data.
+"As a dataset developer, I want to deploy a dataset type independent from any app and allow apps to create and use dataset instances of that type.
+"As a dataset developer, I want to have a way to reject an upgrade of a dataset instance to a newer version of it type if the upgrade is not compatible.
+"As a team member, I want to know when meetings are, so that I can plan accordingly.
+"As an NSF employee, I want to see how the user recruitment form looks and behaves on a sample page, so that I can understand the impact the recruitment will have on the NSF page.
+"As a collection curator, I want to canonically identify authors and creators of my items by unique identifier, so that it's easier to view all of the works by that person together.
+"As a repository manager, I want to elect to either replicate remotely or not and possibly to replicate beyond the primary remote site.
+"As a superuser, I want to update the recycling center information, so that I can provide the latest information about the recycling center.
+"As a trainer, I want to be notified about the results of surveys about my classes, so that I can read them.
+"As a site visitor, I want to see a list of all upcoming Events, so that I can decide if I want to attend any.
+"As a consumer, I want to view the data package, so that that I can get a sense of whether I want this dataset or not.
+"As a repoadmin, I want to provide the server SLA to data contributors.
+"As a MedicalCaregiver, I want to have ALFRED to offer training for specific muscle groups.
+"As a site member who has read a teaser on the front page, I want to read the entire article so that I can finish articles that appeal to me.
+"As a hydrator user, I want to create a pipeline that reads or writes an existing dataset instance.
+"As an OlderPerson, I want to have ALFRED contact the nearest caregiver when I ask ALFRED for urgent help.
+"As a camp administrator, I want to be able to modify tasks/events I scheduled in case there is a change, so that I can always keep the schedule up to date.
+"As a Publisher, I want to publish a dataset, so that I can view just the dataset with a few people.
+"As a Data Publishing User, I want to be able to edit a dataset I have published, So that I can correct or enhance existing data.
+"As a Zoning Staff member, I want to Issue the Zoning-Related Permits, so that I can satisfy an Applicant's request for service that has proven to be eligible and in compliance with the Zoning Ordinance.
+"As a Developer, I want a jQuery plugin for Core Data Packages, so that I can use it to apply to form control that uses a core dataset for autocompletion.
+"As a moderator, I want to select an item to be estimated or re-estimated, so that the team sees that item and can estimate it.
+"As a user, I want to sync events created in NeuroHub with a web-based Calendar such as Google Calendar.
+"As a researcher, I want to have the ability to form links between objects, for example File A is an analysis of File B, so that data can be searched by type and by association.
+"As a MedicalCaregiver, I want to have ALFRED to propose me games that require the combination of mental and physical exercise, such as opposing motion exercises of the arms and legs.
+"As a user, I want to be able to anonymously view public information, so that I know about recycling centers near me before creating an account.
+"As a Staff member, I want to Record an Internal Note, so that I can share information with other Staff collaborating on the record.
+"As a site visitor, I want to view a course I can click on the trainer's name and be taken to the trainer's profile, so that I can read more about a trainer before registering for a course.
+"As a non-Duke researcher, I want to describe my team and mine's objects in the repository after they've been deposited if we've been assigned permission to edit metadata.
+"As a Zoning Staff member, I want to Process the Requests for Zoning Information, so that I can capture my response to the request in the system and also send a communication from the system to the Applicant.
+"As an OlderPerson, I want to help me to control my body weight.
+"As an OlderPerson, I want to have an ALFRED device that only reacts to me.
+"As a VisualDesigner, I want to demonstrate the value of visual design to the NSF project team, so that visual design is an integral part of a redesign.
+"As a site visitor, I want to see a list of all upcoming Certification Courses and can page through them if there are a lot, so that I can choose the best course for me.
+"As an app developer, I want to deploy a new version of a dataset type as part of an app artifact, without affecting other datasets of this type.
+"As a Data Publishing User, I want to be able to edit the model of data I have already imported, So that I can fix bugs or make enhancements in the API built for my data.
+"As a Developer, I want an EPrints integration, so that I can integrate data-packaged data with pipelines that use EPrints.
+"As a lab administrator, I want to create page templates with bespoke metadata fields.
+"As a Platform Administrator, I want to be able to delete any dataset published, So that I can deal with takedown requests, or clean up test datasets.
+"As a user researcher, I want to make sure the correct NSF people are invited to user interviews, so that they can observe the interviews and make recommendations accordingly.
+"As a ResearcherPublisher, I want to add a DOI to a dataset, so that I can cite it in papers stored  with the data.
+"As a team member, I want to know when the mid-point checkin is and what will be covered, so that I can plan accordingly.
+"As a user, I want to assign bespoke information to a file dependent on its type.
+"As a participant, I want to be able start a two-minute countdown timer that all participants can see, so that I can limit the time spent discussing the estimates when I think we�ve talked long enough.
+"As an NSF person interested in attending user interviews, I want to know when they are scheduled and the type of user that will be interviewed.
+"As a Researcher, I want results to be stored in a non-identifiable way, so that I can study the data to see things like whether estimates converged around the first opinion given by estimator A for example.
+"As a researcher, I want to have the ability to locate experiment files using meta data, regardless of where those files are located.
+"As an OlderPerson, I want to use ALFRED to contact help in case of an emergency.
+"As an Admin, I want to invite someone to join the platform, so that that they can start contributing or using data.
+"As a recyclingfacility, I want to be able to communicate directly with the site admin and convey any issues or concerns I have, so that they fix them.
+"As a Data Consuming User, I want to be able to search any dataset published and publicly accessible by their title and metadata, So that I can find the datasets I'm interested in.
+"As an app developer, I want to deploy a new version of a dataset type as part of deploying a new version of the app that includes it and I expect that all dataset instances of that type that were created as part of the app deployment start using the new code.
+"As a dataset developer, I want to have an archetype that helps me package my dataset type properly.
+"As a ResearcherDeveloper, would like the ability import/export from MS-SQL, so that I can use Data Packages in workflows that involve MS-SQL.
+"As a stakeholder, I want to see the results of user research, so that I can determine if the CMS is right for me.
+"As a Data Analyst, I want to update previously downloaded data package, so that that I can work with the most recent data.
+"As a Publisher, I want to data to be validated when I publish it, so that that I know immediately if I have accidentally broken my data or have bugs and can take action to correct.
+"As a CSM, I want to be charged a fee once I am approved for Practitioner status, so that my certification status can be activated.
+"As a Researcher, working with data, I want an Microsoft Power BI integration, so that I can import datasets without downloading them locally.
+"As a UI designer, I want to schedule user testing, so that I can give the testers advanced notice to ensure buy-in.
+"As a user, I want to be able to browse through the list of facolities and see which ones are environment-friendly, so that I can know for sure my waste is not going to leave a negative ecological footprint.
+"As a researcher, I want to download files attached to an experiment using my Web browser.
+"As a data scientist, I want to be able to upgrade a dataset instance to a new version of its code.
+"As an OlderPerson, I want to use ALFRED to manage my agenda.
+"As a repository manager, I want to view available versions of an object and restore a version from the staff interface.
+"As a user, I want to have the details of the workflow execution to be recorded in a neurohub log book while executing a workflow.
+"As a participant, I want to have the two-minute timer reset itself as soon as we all play an estimate, so that it's ready for use on the next round.
+"As a researcher, I want to have at least some meta data to be automatically inserted when new data is added to the system.
+"As a DigitalRecords Archivist, I want to expose the descriptive record for each ETD item for re-use external to Fedora.
+"As a SocialCaregiver, I want ALFRED to remind me of the things I need to bring to the person I care for.
+"As a moderator, I want to edit an item in the list of items to be estimated, so that I can make it better reflect the team's understanding of the item.
+"As an NSF employee, I want to narrow down the universe of CMS options and identify/prioritize key considerations for getting to the next step.
+"As a Publisher, I would like an integration with Open Refine, so that I can output cleaned Data Packages.
+"As a trainer, I want to delete one of my courses or events, so that it's no longer listed if I cancel for some reason.
+"As a Customer, I want to Request Inspection, so that a County inspector is assigned to perform an inspection of my project.
+"As an investigator, I want to view the acceptance test results, so that I can understand how feature-complete the Neurohub node currently is.
+"As a user, I want to either keep a logbook entry private or share it with individuals rather than groups.
+"As a researcher, I want to have remote access to my data for off-site working , so that I can still work effectively while away from the lab.
+"As a Developer, I want to add the updates on a FABS submission to be modified when the publishStatus changes, so that I know when the status of the submission has changed.
+"As an OlderPerson, I want to have a very good battery for ALFRED so I can keep him on the whole day.
+"As a UI designer, I want to move on to round 3 of the Help page edits, so that I can get approvals from leadership.
+"As an OlderPerson, I want to use ALFRED for touristic walks and indications with explanations on historical and cultural sights.
+"As a site member, I want to fill out an application to become a Certified Scrum Trainer, so that I can teach CSM and CSPO courses and certify others.
+"As a user, I want to limit my search results to one or more log book sections from one or more log books.
+"As a site editor, I want to update any course or event, so that I can fix things the original author hasn't.
+"As an API User, I want to be able to get bordering regions|cities when I query a region|city, So that I can provider wider visual context for mapping visualisations.
+"As a user, I want to specify the schema of a dataset in a uniform way across all dataset types.
+"As a developer, I want to enable customers to provide feedback about my App and need an easy way to watch this feedback.
+"As an admin, I want to view a dashboard that monitors all the sites' statuses, so that I can have a sense of what people are doing on our sites and know the service status.
+"As a participant, I want to change my estimate as long as the draw has not been completed, so that I can change my mind.
+"As a parent, I want to be able to enroll my children, so that they can be admitted to camp.
+"As a company, I want to join the Scrum Alliance by paying a corporate membership fee, so that I can show the company's support of Scrum.
+"As an Inspection Staff Supervisor, I want to Assign Inspections, so that I can make sure the appropriate Inspector receives the work.
+"As a user, I want to be able to view a map display of the special waste drop off sites around my area.
+"As an app developer, I want to only depend on the interface of a dataset type in my app and have the system inject the implementation at runtime.
+"As a Staff member, I want to Manage Hearing Calendars, so that I can track hearing-related activities and due dates.
+"As a UI designer,  I want to move on to round 2 of the Help page edits, so that I can get approvals from leadership.
+"As a site admin, I want to delete any course or event, so that I can remove things that will no longer occur.
+"As a repository manager, I want to specify the remote replication policy for each collection.
+"As an NSF employee, I want to understand work performed, so that I can understand when and what I can use later.
+"As an Owner, I want to create a user testing summary from the UI SME, so that I can know what UI improvements we will follow through on.
+"As an API User, I want to be able to normalise measures by population, So that I work with datasets in reference to their contextual constraints.
+"As a supervisor, I want to create feedback forms within Neurohub, that my students can fill in and submit, in order to provide me with feedback about the course that they attended.
+"As a Researcher, I want to be able to save new visualizations, so that I can share them with others or include them in the Data Package.
+"As a Publisher, I would like an integration with Excel, so that I can output cleaned Data Packages.
+"As a site visitor, I want to see a trainer's rating, so that I choose a course from an appropriate trainer.
+"As a Staff member, I want to Schedule a Meeting, so that I can bring the required parties together at a specific date/time to address an issue.
+"As a Publisher, I want to configure my client, so that I can start publishing data packages.
+"As an app developer, I want to include the code of a dataset type in my app artifact and create a dataset of that type when deploying the app.
+"As a site member, I want to send an email to any member via a form, so that we can connect.
+"As an Agency user, I want FABS deployed into production, so I can submit my Financial Assistance data.
+"As a participant, I want to be able to see each estimator's prior estimates for the story being estimated, so that I can see how his or her opinion has changed so I can ask questions.
+"As an Applicant, I want to Request a Plan Review Meeting, so that I can meet with the Plan Review Staff regarding the plan review.
+"As a VisualDesigner, I want to create a moodboard to aid with visual design concepts for the nsf.gov website, so that we can discuss different design concepts with stakeholders.
+"As a Plan Review Staff member, I want to Track the Completion of Required Plan Reviews, so that I can ensure all plan review tasks are completed, results have been sent to the Applicant and any downstream steps are initiated such has a final review or payment for permit issuance.
+"As a collection curator, I want to set a date after which data will expire and be deleted or hidden then deleted.
+"As an OlderPerson, I want to receive a message when my home care nurse is on her way.
+"As a camp administrator, I want to be able to remove campers if they don't attend the camp anymore, so that I can keep the records organized.
+"As a collection curator, I want to see a dashboard widget showing a summary of recent submissions to my collection.
+"As a Development Staff member, I want to Issue a Development-related Permit, so that I can grant the request to the Applicant to begin work
+"As a camp administrator, I want to be able to create a registration form for both staff and kids, so that I can keep organized.
+"As a site editor, I want to set start publishing dates, old article date, and stop publishing dates for articles, so that articles appear only during appropriate periods.
+"As an NSF employee, I want to know how brand guidelines are developed and maintained, so that I can incorporate them throughout the project.
+"As a camp administrator, I want to be able to upload consent forms, so that campers or their parents can easily access the forms.
+"As an app developer, I want to write unit tests for an app that depends on the interface of a dataset type.
+"As a Practitioner, I want to include additional details about me in my profile page, so that I can showcase my experience.
+"As a site member, I want to subscribe to an RSS feed of news, so that I remain sufficiently and easily informed.
+"As a developer, I want to present my App in several ways.
+"As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
+"As a Staff member, I want to Process the Appeals, so that I can track the outcome and record the impact on the relevant records.
+"As a UI designer, I want to report to the Agencies about user testing, so that they are aware of their contributions to making Broker a better UX.
+"As a site administrator, I want to set the listing fee per Other Course or Event, so that we have flexibility on what to charge in the future.
+"As a DigitalRecords Archivist, I want to have a method to batch ingest ETDs we receive from ProQuest.
+"As an owner, I want to remove a user as an owner, so that they are just a member and no longer have full control.
+"As a moderator, I want to start a round by entering an item in a single multi-line text field, so that we can estimate it.
+"As an Applicant, I want to Satisfy Hearing Requirements, so that I can ensure all pre-hearing requirements are satisfied in time for the hearing.
+"As an NSF employee, I want to have a final workshop to identify key lessons and features for the content management system decision.
+"As a user researcher, I want to begin drafting a research plan, so that I can begin recruiting participants.
+"As a camp administrator, I want to be able to modify the information of enrolled campers, so that I can keep the campers information up to date.
+"As a Publisher, I want to import my data package into the registry, so that my data has a permanent online home to access.
+"As a content editor, I want to be able to add videos from Brightcove.
+"As a collection curator, I want to have my collection be encrypted with a key maintained on that server, a checksum made and stored of the encrypted file, and the encrypted file replicated to our remote storage site.
+"As a Researcher, I want to get a Data Package into Julia in seconds, so that I can start using the data for doing analysis and visualizations.
+"As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's heart rate.
+"As a developer, I want to use bootstrap in the process of developing, so that I can easily design my website.
+"As a user, I want to enter metadata / describe an experiment protocol before a file is even created.
+"As a site visitor, I want to know as I glance around the home page what on earth a CSM is and why I'd want to be one, so that I read more.
+"As a camp administrator, I want to create an avenue so parents can submit feedback and general concerns, so that I can keep improving the services I provide.
+"As an API User, I want to be able to normalise measures by geographical area, So that I work with datasets in reference to their contextual constraints.
+"As a moderator, I want to accept the average of all estimates, so that we can move on to the next item when we agree.
+"As a user, I want to see the provenance of the page as part of the search results.
+"As an OlderPerson, I want to be able to call someone with ALFRED.
+"As a camp counselor, I want to be able to take attendance of my assigned kids, so that I can make ensure everybody is accounted for.
+"As an OlderPerson, I want to use ALFRED to control the TV and radio.
+"As a dataset developer, I want to delete outdated versions of a dataset type and I expect this to fail if there are any dataset instances with that version of the type.
+"As an API user, I want to be able to change some of the styling of the embedded Viewer in my own platform, So that I can brand it to my own organisation's color scheme.
+"As an NSF employee, I want to know where the initial in-person meeting will be, so that I can plan on attending.
+"As a Data Consuming User, I want to be able to download a CSV of the data that is used in any visualisation I am viewing, So that I can use the data in other tools.
+"As a site administrator, I want to understand how other similar organizations are handling visual design, so that I can make informed decisions about what appears to work well and what doesn't.
+"As a content designer, I want to develop a better understanding of NSF's content types and editorial plan, so that I can make more informed recommendations going forward.
+"As a researcher, I want to indicate within my electronic log book which experimental data is good/bad, hide the bad data, but still keep it in the system just in case it is useful in the future.
+"As a site administrator, I want to set the annual fees for members, Practitioners and Trainers, so that fees can be set without involving a programmer.
+"As a potential research participant, I want to learn about the research and leave my contact information.
+"As a Developer, I want to get a Data Package into Python in seconds, so that I can start using the data for doing analysis and visualizations.
+"As a Developer, I want to get a Data Package into Node, so that I can start using the data for doing analysis and visualizations.
+"As a parent, I want to be able to share any photos the camp has taken of my child.
+"As a user, I want to download files directly from the search results page.
+"As a trainer, I want to see the upcoming courses are what I want visitors to notice, so that they register and there's a benefit to my membership.
+"As a Publisher, I want to preview a datapackage I have prepared, so that that I can check it works and share the results.
+"As a site admin, I want to be emailed whenever a job is submitted, so that I am aware of it and can decide if I want to post it.
+"As a Publisher, I want to create a data package in the UI so that it is available and published.
+"As an Applicant, I want to Resubmit Plans, so that I can review revised plans.
+"As a user,  I want to have the ability to keep my data private on the system, and only share data that I deem should be shared.
+"As an OlderPerson, I want to games that require the combination of mental and physical exercise, such as opposing motion exercises of the arms and legs.
+"As a user, I want to have the system to also forward important news items to an external mailing list.
+"As an OlderPerson, I want to receive reminders on my appointments.
+"As a repository manager, I want to track who is financially responsible for each item in the repository, who should probably be a person contact including name, phone, email, maybe title and address.
+"As a County Staff Member, I want to create a custom query/report outside of the common querying/reporting functionality, so that I can fulfill a request.
+"As a dataset developer, I want to deploy a new version of a dataset type without affecting the dataset instances of that type.
+"As a camp administrator, I want to store camper's immediate parent/guardian's information, so that I can easily call to notify them in case a grossly unacceptable behavior.
+"As a camp worker, I would be able to submit a completion report for the tasks which was assigned to me.
+"As an NSF employee, I want to know how visual design directions were developed, so that I can make better design decisions in the future.
+"As a developer, I want to present my app to as many people as Possible.
+"As a researcher, I want to create a log book page.
+"As an Enforcement Staff member, I want to Issue a Notice of Violation, so that I can provide formal communication to the responsible party.
+"As a user, I want to modify or branch an experimental protocol, whilst retaining the original.
+"As an employee, I want to get quick notifications, so that I can process cases the first time.
+"As an Applicant, I want to Modify my Application, so that I can successfully change information on an application.
+"As a moderator, I want to browse through previous games, so that I can find the previous game I�m looking for.
+"As a researcher, I want to upload files prior to having them attached to a log book page.
+"As an OlderPerson, I want to use ALFRED to set up social groups of people with similar diseases.
+"As a team member, I want to have a schedule of more coworking slots, so that I can work in tandem with the rest of the team on a more regular basis.
+"As repository manager, I want to view authenticated, active users and anonymous users.
+"As a release engineer, I want to call a script to execute acceptance tests against a Neurohub installation and report back the results.
+"As a Consumer, I want to get a sense of the age of the datapackage that I have downloaded before, so that that I can decide if I should update or not.
+"As a web recruiter manager, I want to confirm the recruiter is set up and working properly, so that I can deploy it on more pages.
+"As an OlderPerson, I want to have an introduction conversation with ALFRED, so that I can learn everything about him and he about me.
+"As a member, I want to have the system email me a new password or a password reminder since i have short-term memory problems.
+"As a repository manager, I want to schedule a message to users to be displayed on each page on the repository between select times for things like notification of upcoming downtime.
+"As a repoadmin, I want to have Symplectic Elements to communicate bidirectionally with the repository.
+"As a user, I want to trigger a migration process for a dataset if updating its properties requires that.
+"As a moderator, I want to create a new game by entering a name and an optional description, so that I can start inviting estimators.
+"As a hydrator user, I want to ensure that all dataset instances created by apps are available as sinks and sources for pipelines.
+"As a developer, I want to have the API components to be on a high level so that I don’t have to deal with their details.
+"As an owner, I want to make a user an owner, so that they have full control.
+"As a moderator, I want to invite estimators by giving them a URL where they can access the game, so that we can start the game.
+"As a Data Consuming User, I want to be able to change the display of all monetary measures across a set of currencies, So that I can understand localised amounts in non-localised figures.
+"As a moderator, I want to add an item to the list of items to be estimated, so that so that we can be flexible and accommodate situations where we think of a new story while playing.
+"As a Publisher, I want to be able to restore the deleted data package via cli, so that that it is back visible and available to view, download.
+"As an employee from the HR department, I want to have access to the full information of all employees working for this business.
+"As an OlderPerson, I want to have an ALFRED device that provides me with information about existing apps that corresponds to my interests.
+"As a camp administrator, I want to be able to create groups and add campers to the groups, so that I can easily organize the campers.
+"As a site visitor, I want to email news items to the editor, so that they can be considered for publication.
+"As a researcher, I want to point my Mendeley client at a group-wide shared repository of research papers and get notifications via Mendeley when new content is added.
+"As an OlderPerson, I want to be able to see my training Performance.
+"As a participant, I want to see who gave what estimates during the current round, so that I know this when we�re discussing the estimates.
+"As a Consumer, I want to see how much the data has been downloaded, so that that I can choose most popular in the case when there are several alternatives for my use case.
+"As a researcher, I want to have any data that I have written to the VRE to be protected from modification or deletion, so that original data can always be traced back to an experiment and a point in time.
+"As an OlderPerson, I want to use ALFRED to watch movies.
+"As a batch submitter, I want to access documentation describing the folder ingest process.
+"As an app developer, I want to share a dataset type across multiple applications that include the dataset type's code in their artifacts.
+"As a developer, I want to determine if we can use the in-built Fedora 4 event audit services.
+"As a user, I want to create a protocol and assign metadata to any stag.
+"As a researcher, I want to attach currently non-attached files to a log book page.
+"As an estimator, I want to see all items we will try to estimate this session, so that I have a feel for the sizes of the various items.
+"As a team member, I want to determine a design direction for the beta social page, so that we can implement a beta site quickly without established brand guidelines.
+"As an OlderPerson, I want to have ALFRED to initiate questions, but it should be in the domains of my interest such as cinema, exhibitions, cooking.
+"As a MedicalCaregiver, I want to give corrective feedback if exercises are performed wrong, too much or in any other way harmful to the user.
+"As a participant, I want to immediately see that an estimate has been given by a specific estimator, so that I know who has already given an estimate and who we�re still waiting for.
+"As an Applicant, I want to Submit Supporting Documentation, so that I can satisfy documentation requirements for my application.
+"As a User, I want to be able to set my own username, So that my data is more easily discoverable.
+"As a moderator, I want to delete an item from the list of items to be estimated, so that we can remove it and not estimate it.
+"As a site administrator, I want to read practicing and training applications and approve or reject them, so that only applicants who qualify can become CSPs or CSTs.
+"As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's blood pressure.
+"As a user researcher, I want to know when outreach to lists is successful, so that I can plan on a new release to the next listserv on the priority list.
+"As a user researcher, I want to conduct a user definition workshop with NSF, so that I can better prepare them and the team for future research work.
+"As a site member, I want to view the profiles of other members, so that I can find others I might want to connect with.
+"As a camp administrator, I want to be able to warn a camp worker who I think did his/her job inappropriate.
+"As an OlderPerson, I want to have ALFRED on all my computers, tablets and phone.
+"As a collection curator, I want to have item metadata to be discoverable while the item is under embargo.
+"As a Plan Review Staff member, I want to Review Plans, so that I can review them for compliance and either approve, or fail or deny the plans and record any conditions, clearances, or corrections needed from the Applicant.
+"As a user, I want to associate together files involved in a experiment.
+"As a ResearcherGovernment Publisher, I want to add general reference data to my narrow dataset, so that my dataset is more useful.
+"As an Applicant, I want to Complete Building Development Project, so that I can receive any posted bond and/or obtain occupancy.
+"As an OlderPerson, I want to receive visual support, especially when looking at a list, map or agenda.
+"As a dataset developer, I want to assign explicit versions to the code of a dataset type.
+"As the site editor, I want to include a teaser with each article, so that site visitors can decide if they want to read the rest.
+"As a user, I want to have that my Twitter Tweets to appear in Neurohub, so that other researchers in the centre can see what I am up to.
+"As a team member, I want to meet with DIS / cloud.gov, so that I can determine the requirements for the beta.nsf.gov ATO.
+"As an NSF employee, I want to have editorial-planning recommendations, so that I can understand how they might impact an eventual CMS / future web presence.
+"As a Data Publishing User, I want to be able to provide the Platform Administrator with additional GeoJSON sources, So that I can improve the map-based visualisations of my data.
+"As a user, I want to upload large files of over 1GB in size.
+"As a Developer , I want my domain models to be indexed properly, so that I can get validation results back in a reasonable amount of time.
+"As a hydrator user, I want to explore the datasets created by my pipeline.
+"As a collection curator, I want to move items from one collection to another.
+"As a CSM, I want to have my name listed in the registry without becoming a member of the site, so that employers or others can verify my certification.
+"As a team member, I want to understand what the MVP should look like, so that I can begin understanding workflow needs as they pertain to any CMS decision.
+"As a user, I want to view all locations of recycling centers on a map, so that I can check which routes to take to drop off waste.
+"As a workshop attendee, I want to have a summary of what we learned, so that I can understand our next steps and how they apply to me.
+"As a Developer, I want to do exploratory data analysis in R and operationalize that analysis in Python, so that I can use the best tool for the job.
+"As a participant, I want to be able to change my estimate up until the last person selects a card and all are shown, so that I can change my mind based on information I hear.
+"As a user, I want to be able to view the safe disposal events currently being organised around my area.
+"As a user researcher, I want to test the user research plan, so that I make sure the in-person interviews are effective and capturing the right information.
+"As a stakeholder, I want to have a decision on whether or not the blog aggregator may work for beta, and if not what will.
+"As a site administrator, I want to understand how other similar organizations are handling content, so that I can make informed decisions about what appears to work well and what doesn't.
+"As a site admin, I want to stop publishing jobs on the site 30 days after being posted, so that jobs that may have been filled aren't still listed when the hiring party forgets to come back and delete the ad.
+"As a plugin developer, I want to use a custom dataset type that was deployed independently or as part of an app inside the plugin.
+"As a site member, I want to mark my email address as private even if the rest of my profile is not, so that no one can contact me.
+"As a Public User, I want to Search for Information, so that I can obtain publicly available information concerning properties, County services, processes and other general information.
+"As an NSF employee, I want to have an updated roadmap document, so that I can see prioritized areas to focus on for the next few months and beyond.
+"As an OlderPerson, I want to use ALFRED to get a personalized invitation to a social event, so that it motivates more to go.
+"As a Data Publishing User, I want to be able to delete a dataset I have published, So that I can remove unwanted data from OpenSpending.
+"As a ResearcherPublisher, I want to specify the funding that contributed to the creation of a given dataset, so that funding agencies can identify the funding, source for a given dataset.
+"As a Data Analyst I want to download a data package, so that that I can study it and wrangle with it to infer new data or generate new insights.
+"As an NSF employee, I want to join Github, so that I can participate in the issues as assigned.
+"As a Consumer, I want to know full details of how the data package schema has changed, so that that I can adjust my scripts to handle it.
+"As a moderator, I want to export a transcript of a game as a CSV file, so that I can further process the stories and estimates.
+"As a developer, I would like to create a web socket protocol for Frictionless data tools, so that I can easily use data packages with additional data analysis tools.
+"As a repoadmin, I want to have the license be recorded in metadata and displayed alongside the item.
+"As a user, I want to limit my search to a particular set of log books.
+"As a Data Publishing User, I want to have my dataset update automatically as the source file/files changes, So that OpenSpending always shows current data.
+"As a Plan Review Staff member, I want to successfully Conduct a Plan Review Meeting with the Applicant and record the outcome, so that I can listen to it again.
+"As an OlderPerson, I want to have an ALFRED device that helps me to communicate with my friends and family.
+"As an OlderPerson, I want to have ALFRED to detect falls and send an emergency to a specific contact.
+"As a trainer, I want to list my upcoming classes in my profile and include a link to a detailed page about each, so that prospective attendees can find my courses.
+"As a MedicalCaregiver, I want to have ALFRED to be able to determine the user's body temperature.
+"As an OlderPerson, I want to have ALFRED to set limits in the games duration as I get bored easily.
+"As a dataset developer, I want to separate the interface from the implementation of a dataset type.
+"As a parent, I want to be able to see a schedule of the activities my children are involved in at camp, so that I can be more informed as to what they are doing at camp.
+"As an employee, I want to access the route planning system during work, so that I can be guided through the neighbourhood.
+"As a moderator, I want to log in using my account name and password, so that I can start using the application.
+"As a user, I want to view the group's shared calendars via the Neurohub Nodes' Web page as well as on my mobile device.
+"As an OlderPerson, I want to use ALFRED to send messages.
+"As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+"As a collection curator, I want to create deposit forms specific to the collection.
+"As a Staff member, I need to be notified when Geospatial attributes change, so that I can ensure that I am reviewing the permit/application to the most current data and appropriate standards.
+"As a Staff member, I want to Develop a Staff Report, so that I can publish and distribute the report according to business rules.
+"As a trainer, I want to show my rating up on my profile page, so that site visitors can choose wisely.
+"As a site editor, I want to be able to designate whether or not an ever makes the home page, so that the best content is featured most prominently.
+"As a Staff member, I want to Prepare for and Support Hearing Execution, so that I can ensure all pre-hearing requirements are satisfied and staff and Applicant are ready for the hearing.
+"As a user, I want to access the raw agency published files from FABS via USAspending.
+"As a parent, I want to be able to see and edit my enrolled children to the camp year, so that I can know who I already enrolled to camp, who is still pending admission etc.
+"As a Developer, I want an Elasticsearch integration, so that I can integrate data-packaged data with pipelines that use Elasticsearch.
+"As a CSM, I want to be sent an email welcoming me to the Scrum Alliance and with instructions to register or activate my membership once my name has been loaded to the registry.
+"As a Consumer, I want to load a Data Package from R, so that that I can immediately start playing with it.
+"As a site editor, I want to assign priority numbers to news items, so that I can indicate which articles I want featured most prominently on the site.
+"As a Consumer, I want to view a data package online, so that I can get a sense of whether this is the dataset I want.
+"As an Agency user, I want to be able to include a large number of flexfields without performance impact.
+"As a Staff member, I want to Manage Ordinances, so that I can maintain accurate ordinance information in the System.
+"As an OlderPerson, I want to have an AFLRED device that encourages its users for real interaction between humans and not only with ICT tools.
+"As a superuser, I want to view users' stats, so that I can view in real-time how many users have visited my recycling center information and their recyclable waste.
+"As a Consumer, I want to see how active the site is, so that I can decide if I should get involved.
+"As a parent, I want to be able to see which consent forms I have submitted, so that I can know what I still need to do.
+"As a ProspectiveApplicant, I want to research requirements and to select a service, so that I can find the relevant service and/or application type to initiate via the online portal.
+"As a moderator, I want to create an account for the application by entering my name, email address, a password and a username, so that I can start using the application.
+"As a moderator, I want to export a transcript of a game as a HTML file, so that I can save the stories and estimates locally.
+"As an admin, I want to add recycling center information, so that I can keep the database up-to-date over time.
+"As a developer, I want to easily create and to maintain my apps within the market place.
+"As an admin, I want to be able to have a dashboard that shows usage stats and locations, so that I can identify the neighbourhoods with the largest number of drop-offs and to try getting more facilities involved.
+"As a developer, I want to have the site comply with the W3C accessibility guidelines where possible, so that people with accessibility issues can use the application.
+"As a dataset developer, I want to have the option of forcing applications to have the dataset code injected at runtime.
+"As a user, I want to update a single property of a dataset instance without knowing all other properties.
+"As a publisher, I want to package reproducible steps to get a certain data state, so my methodology is transparent and can be rerun by others.
+"As a developer, I want to have an easy way to manage the pricing modality of my Apps.
+"As a site visitor, I want to read FAQs, so that I can get quick answers.
+"As a SocialCaregiver, I want to have a step counter included into ALFRED.
+"As an NSF employee, I want to schedule regular in-person check-ins, so that we can continue to communicate the goals of the project with our stakeholders.
+"As a SocialCaregiver, I want to have ALFRED to be able to recognize pain and or stress by using skin conduction sensors.
+"As an OlderPerson, I want to receive support to have a taxi on time.
