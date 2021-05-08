@@ -1,4 +1,4 @@
-with open("training_data.csv") as training_data:
+with open("test_data.csv") as training_data:
     lines = training_data.readlines()
 
 formatted_lines = []

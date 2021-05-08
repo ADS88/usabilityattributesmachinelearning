@@ -18,6 +18,8 @@ def convert_to_spacy_format(data):
 
 def get_training_data(filename):
     """Takes CSV file delimeted by double quote characters"""
+    attributes = 0
+    non = 0
     with open(filename) as stories:
         lines = stories.readlines()
     data = []
@@ -25,22 +27,44 @@ def get_training_data(filename):
         line = line.strip()
         usability_attribute, story = line.split('"')
         if usability_attribute == "":
+            non += 1
             data.append((story, False))
         else:
+            attributes += 1
             data.append((story, True))
+    print(attributes)
+    print(non)
+    return data
+
+def get_specific_attribute_data(filename, attribute):
+    with open(filename) as stories:
+        lines = stories.readlines()
+    data = []
+    count = 0
+    for line in lines:
+        line = line.strip()
+        usability_attributes, story = line.split('"')
+        usability_attributes = usability_attributes.split(',')
+        usability_attributes = [attribute.strip().lower() for attribute in usability_attributes]
+        if attribute in usability_attributes:
+            data.append((story, True))
+            count += 1
+        else:
+            data.append((story, False))
+    print(count)
     return data
 
 
 nlp = spacy.load("en_core_web_sm")
-data = get_training_data("training_data.csv")
-data = convert_to_spacy_format(data)
-random.shuffle(data)
+test_data = get_training_data("test_data.csv")
+# data = convert_to_spacy_format(data)
+# random.shuffle(data)
 
-training_data = data[:len(data) // 2]
-validation_data = data[len(data) // 2:]
+# training_data = data[:len(data) // 2]
+# validation_data = data[len(data) // 2:]
 
-doc_bin = DocBin(docs=training_data)
-doc_bin.to_disk("./data/train.spacy")
-
-doc_bin = DocBin(docs=validation_data)
-doc_bin.to_disk("./data/valid.spacy")
+# doc_bin = DocBin(docs=training_data)
+# doc_bin.to_disk("./data/train_access.spacy")
+#
+# doc_bin = DocBin(docs=validation_data)
+# doc_bin.to_disk("./data/valid_access.spacy")

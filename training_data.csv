@@ -1,14 +1,14 @@
-Accessability"As an OlderPerson, I want to use ALFRED to help me navigate despite my mild cognitive impairments.
-accessability"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual troubles.
-accessability"As an OlderPerson, I want to use ALFRED as much as possible with speech interaction.
-accessability"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual or hearing troubles.
-accessability"As an OlderPerson, I want to be able to zoom into visual content.
-accessability"As an OlderPerson, I want to receive information from ALFRED by speech technology.
-accessability"As an OlderPerson, I want to use only well-visible buttons.
-accessability"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have hearing trouble.
-accessability"As an OlderPerson, I want to have an ALFRED device that repeats the last phrase.
-accessability"As a developer, I want to have written a site which is compliant with XHTML and CSS standards, so that as many people as possible can access the site and view it as intended.
-Accessibility" Learnability,As a site visitor, I want to be able to get back to the home page quickly and easily, so that I don't get lost navigating.
+accessibility"As an OlderPerson, I want to use ALFRED to help me navigate despite my mild cognitive impairments.
+accessibility"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual troubles.
+accessibility"As an OlderPerson, I want to use ALFRED as much as possible with speech interaction.
+accessibility"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have visual or hearing troubles.
+accessibility"As an OlderPerson, I want to be able to zoom into visual content.
+accessibility"As an OlderPerson, I want to receive information from ALFRED by speech technology.
+accessibility"As an OlderPerson, I want to use only well-visible buttons.
+accessibility"As an OlderPerson, I want to have an ALFRED device that can be easily adapted for user that have hearing trouble.
+accessibility"As an OlderPerson, I want to have an ALFRED device that repeats the last phrase.
+accessibility"As a developer, I want to have written a site which is compliant with XHTML and CSS standards, so that as many people as possible can access the site and view it as intended.
+Accessibility, Learnability",As a site visitor, I want to be able to get back to the home page quickly and easily, so that I don't get lost navigating.
 Efficiency"As a Data Publishing User, I want to have a functioning Python Client, So that I can add data to the datastore in bulk from the command line or my own programs.
 efficiency"As a team member, I want to have recruiting-email templates ready to go, so that I can start recruiting interviewees ASAP!.
 Efficiency"As a user, I want to specify schema as a JSON string.
@@ -81,8 +81,8 @@ Efficiency"As an OlderPerson, I want to see my vital parameters myself on the ph
 efficiency"As a Consumer, I want to search among all data packages owned by a publisher, so that that I can easily find one data package amongst all the data packages by this publisher.
 Efficiency"As a site visitor, I want to subscribe to an RSS feed of upcoming courses and events, so that I am up to day without having to visit the site.
 Efficiency"As a Researcher, I want to get a Data Package into R in seconds, so that I can start using the data for doing analysis and visualizations.
-Efficiency" Learnability,As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis.
-Efficiency" Satisfaction,As a user, I want to have a spreadsheet hosted within the Neurohub Web page, so that I can edit and calculate costs collaboratively with others while working on the proposal.
+Efficiency, Learnability" As a Machine Learning expert, I would like to package ML datasets as data packages, so that I can easily import them into my ML platform, so that I can start using the data in doing analysis.
+Efficiency, Satisfaction" As a user, I want to have a spreadsheet hosted within the Neurohub Web page, so that I can edit and calculate costs collaboratively with others while working on the proposal.
 Error"As a Researcher, I want an integration with https://data.mendeley.com/, so that I can validate my data upon ingest to the service.
 Error"As an app developer, I want to ensure that application creation fails if any of its datasets cannot be created.
 Error"As an admin, I want to view user error logs, so that I can fix or review any issues that are being faced by users of the system.
@@ -151,13 +151,13 @@ learnability"As a moderator, I want to see dates and times in my local timezone,
 learnability"As a Consumer, I want to see some example data packages quickly, so that I get a sense of what is on this site and if it is useful to look further.
 learnability"As a depositor, I want to see what kinds of things the repository accepts and what formats are accepted and recommended.
 Learnability"As a site visitor, I want to be able to read some of your articles, so that I can learn without first joining the site.
-Learnability" Efficiency, ,As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data.
-Learnability" Memorability,As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful.
-Learnability" Memorability,As a Data Consuming User, I want to have consistent use of colour on map visualisations, So that I can better understand the visual logic of the map view.
-Learnability" Memorability,As a site visitor, I want to have articles that interest me and are easy to get to, so that I come to the site for my agile news and learning.
-Learnability" Memorability,As a company, I want to have a website that is easy to use, so that I can upload or delete stuff step by step.
-Learnability" Memorability,As a content editor, I want to be able to easily find content, so that I can edit it.
-learnability" prevention of errors,As a depositor, I want to get feedback post-ingest alerting me if files I submitted do not conform to their format specifications, if they are not valid, or if they are not wellformed.
+Learnability, Efficiency"As a ResearcherPublisher, I want validate my data with a minimum of clicks, so that I can feel trust in the validity and usefulness of the data.
+Learnability, Memorability"As a Repository Manager, I want a tool that makes it easy for researchers/ users to add basic metadata to their research data, so that it is more findable and therefore useful.
+Learnability, Memorability"As a Data Consuming User, I want to have consistent use of colour on map visualisations, So that I can better understand the visual logic of the map view.
+Learnability, Memorability"As a site visitor, I want to have articles that interest me and are easy to get to, so that I come to the site for my agile news and learning.
+Learnability, Memorability"As a company, I want to have a website that is easy to use, so that I can upload or delete stuff step by step.
+Learnability, Memorability"As a content editor, I want to be able to easily find content, so that I can edit it.
+learnability, prevention of errors"As a depositor, I want to get feedback post-ingest alerting me if files I submitted do not conform to their format specifications, if they are not valid, or if they are not wellformed.
 memorability"As a Visitor, I want to sign up via github or google, so that that I don't have to enter lots of information and remember my password for yet another website.
 memorability"As a repository manager, I want to see a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
 Memorability"As a member, I want to receive a reminder and a link, so that I can renew my membership.
@@ -165,7 +165,7 @@ Memorability"As a Developer , I want to clarify to users what exactly is trigger
 memorability"As a designer, I want to have a style guide / design guide / content guide, so that we have a uniform way of delivering product.
 Error"As a pipeline designer, I want to get a meaningful error message when pipeline creation fails when I use an existing dataset as a sink or source, so that I know that the schema or any other property of the dataset is incompatible with what the pipeline requires.
 memorability"As a developer, I want to have a list of definitions for commonly used terms, so that everyone working on the project can understand each other more easily.
-Memorability" learnability,As a developer, I want to have the API to be well defined and well documented.
+Memorability, learnability"As a developer, I want to have the API to be well defined and well documented.
 satisfaction"As a publisher, I want to embed an interactive preview of my data on my site, so that users can be encouraged that this is the correct data for them.
 satisfaction"As a camp administrator, I want to be able to delete parents from the database, so that I can keep my pages free of unneeded clutter.
 Satisfaction"As a Developer, I want to customize an existing wizard for my specific type of data, so that I can give my users a great user experience.
@@ -188,7 +188,7 @@ Satisfaction"As an OlderPerson, I want to have games that include my favourite s
 Satisfaction"As a user, I want to click on the address, so that it takes me to a new tab with Google Maps.
 Satisfaction"As an OlderPerson, I want to play games where I can use my Imagination.
 Satisfaction"As the site editor, I want to have pretty good control over how the article, so that articles are visually appealing.
-Satisfaction" Accessibility,As a Data Consuming User, I want to be able to have stepped zoom on map visualisations, So that I can have better control over the navigation experience inside a map view.
+Satisfaction, accessibility"As a Data Consuming User, I want to be able to have stepped zoom on map visualisations, So that I can have better control over the navigation experience inside a map view.
 "As a designer, I want to have a new social media wireframe, so that I can begin implementing design.
 "As a researcher, I want to associate meta data to the group as a whole at some point in time after the bulk upload has completed, so that I have a period of time to reflect on suitable values for the meta data.
 "As a collection curator, I want to be able require authentication to access objects unless the request is coming from a whitelisted IP address, list of addresses.
