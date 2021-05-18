@@ -2,9 +2,12 @@ import spacy
 from main import convert_to_spacy_format, get_specific_attribute_data, get_training_data
 
 
-def test_data_accuracy(filename, attribute):
-    nlp = spacy.load("accessoutput/model-best")
-    test_data = get_specific_attribute_data(filename, attribute)
+def test_data_accuracy(filename, model_path, attribute=None):
+    nlp = spacy.load(model_path)
+    if attribute:
+        test_data = get_specific_attribute_data(filename, attribute)
+    else:
+        test_data = get_training_data(filename)
     num_matching_attribute = 0
     num_not_matching_attribute = 0
     right = 0
@@ -20,7 +23,6 @@ def test_data_accuracy(filename, attribute):
             num_not_matching_attribute += 1
         classification = nlp(story)
         if classification.cats['usability_attribute'] >= 0.5:
-            print(story)
             thought_matched_attribute += 1
         else:
             thought_didnt_match_attribute += 1
@@ -49,4 +51,5 @@ def is_classification_right(classification, expected):
         return not expected
 
 
-test_data_accuracy("test_data.csv", "accessibility")
+#est_data_accuracy("test_data.csv", "accessoutput/model-best", "accessibility")
+test_data_accuracy("test_data.csv", "output/model-best")

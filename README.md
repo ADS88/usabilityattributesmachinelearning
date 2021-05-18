@@ -19,8 +19,9 @@ Machine learning models can be generated with the command "-m spacy train config
 where outputdirectory is the directory to save the models.
 
 Example workflow to create a new model.
-1) Create separate test and training CSV files mapping usability attributes and stories in a similar format to training_data.csv 
-2) Run main.py with the filename containing your training new stories. Ensure to change the filename of the model will be saved in the data directory. 
-3) Change base_config/config paths to point to the new model
-4) Run the spacy train command mentioned above.
-5) Run test_models.py with the file name containing your test data
+1) Install spaCy and spaCy "en_core_web_lg" in your project's virtual environment.
+2) Create separate test and training CSV files mapping usability attributes and stories in a similar format to training_data.csv 
+3) Run main.py with the filename containing your training new stories. Ensure to change the filename of the model will be saved in the data directory. 
+4) Change base_config/config paths to point to the new model
+5) Run the spacy train command mentioned above.
+6) Run test_models.py with the file name containing your test data
