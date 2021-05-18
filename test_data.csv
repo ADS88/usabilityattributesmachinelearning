@@ -47,8 +47,8 @@ Efficiency"As a Zooniverse admin, I want to perform automatic preclassification 
 Efficiency"As a Zooniverse admin, I want to perform automatic worm motion analysis to reduce video duration in Worm Watch Lab.
 Efficiency"As a Zooniverse admin, I want to automatically detect the time in a Worm Watch Lab video where the worm lays an egg.
 Efficiency"As an admin, I want to see a summary of articles, so that I reuse them.
-Efficiency Errors",As an archivemanager, I want to reuse the information regarding file format, so that I can apply automated checks for the file validation.
-Efficiency Errors",As an Extension Administrator, I want to have easy, well documented and supported workflows that can be easily passed on to others when she/others retire, so that continuity can be maintained.
+Efficiency, Errors",As an archivemanager, I want to reuse the information regarding file format, so that I can apply automated checks for the file validation.
+Efficiency, Errors",As an Extension Administrator, I want to have easy, well documented and supported workflows that can be easily passed on to others when she/others retire, so that continuity can be maintained.
 Efficiency, Learnability",As a trainingcoordinator, I want to email all the trainers at once from the website for info and updates, so that It is easier to use.
 Errors"As a trainee, I want to limit to one registration per day per authenticated user, so that we don't have duplicate spaces.
 Errors"As a attendee, I want to see what summits I'm signed up for, so that I can confirm my attendence and prevent myself from accidentally double-booking with a training or another summit.

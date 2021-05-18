@@ -157,7 +157,7 @@ Learnability, Memorability"As a Data Consuming User, I want to have consistent u
 Learnability, Memorability"As a site visitor, I want to have articles that interest me and are easy to get to, so that I come to the site for my agile news and learning.
 Learnability, Memorability"As a company, I want to have a website that is easy to use, so that I can upload or delete stuff step by step.
 Learnability, Memorability"As a content editor, I want to be able to easily find content, so that I can edit it.
-learnability, prevention of errors"As a depositor, I want to get feedback post-ingest alerting me if files I submitted do not conform to their format specifications, if they are not valid, or if they are not wellformed.
+learnability, error"As a depositor, I want to get feedback post-ingest alerting me if files I submitted do not conform to their format specifications, if they are not valid, or if they are not wellformed.
 memorability"As a Visitor, I want to sign up via github or google, so that that I don't have to enter lots of information and remember my password for yet another website.
 memorability"As a repository manager, I want to see a display of recent errors deduplicated for easy comprehension like Symplectic Elements provides.
 Memorability"As a member, I want to receive a reminder and a link, so that I can renew my membership.

@@ -4,6 +4,7 @@ from spacy.tokens import DocBin
 
 
 def convert_to_spacy_format(data):
+    nlp = spacy.load("en_core_web_sm")
     docs = []
     for story, is_quality_attribute in nlp.pipe(data, as_tuples=True):
         if is_quality_attribute:
@@ -18,8 +19,6 @@ def convert_to_spacy_format(data):
 
 def get_training_data(filename):
     """Takes CSV file delimeted by double quote characters"""
-    attributes = 0
-    non = 0
     with open(filename) as stories:
         lines = stories.readlines()
     data = []
@@ -27,14 +26,11 @@ def get_training_data(filename):
         line = line.strip()
         usability_attribute, story = line.split('"')
         if usability_attribute == "":
-            non += 1
             data.append((story, False))
         else:
-            attributes += 1
             data.append((story, True))
-    print(attributes)
-    print(non)
     return data
+
 
 def get_specific_attribute_data(filename, attribute):
     with open(filename) as stories:
@@ -55,16 +51,16 @@ def get_specific_attribute_data(filename, attribute):
     return data
 
 
-nlp = spacy.load("en_core_web_sm")
-test_data = get_training_data("test_data.csv")
-# data = convert_to_spacy_format(data)
-# random.shuffle(data)
+if __name__ == "__main__":
+    data = get_specific_attribute_data("test_data.csv", "efficiency")
+    data = convert_to_spacy_format(data)
+    random.shuffle(data)
 
-# training_data = data[:len(data) // 2]
-# validation_data = data[len(data) // 2:]
+    training_data = data[:len(data) // 2]
+    validation_data = data[len(data) // 2:]
 
-# doc_bin = DocBin(docs=training_data)
-# doc_bin.to_disk("./data/train_access.spacy")
-#
-# doc_bin = DocBin(docs=validation_data)
-# doc_bin.to_disk("./data/valid_access.spacy")
+    doc_bin = DocBin(docs=training_data)
+    doc_bin.to_disk("./data/train_access.spacy")
+
+    doc_bin = DocBin(docs=validation_data)
+    doc_bin.to_disk("./data/valid_access.spacy")
